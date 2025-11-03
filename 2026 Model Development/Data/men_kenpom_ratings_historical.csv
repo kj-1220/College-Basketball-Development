@@ -1,4 +1,4 @@
-year,team,kenpom_id,kenpom_oe,kenpom_def,kenpom_adjem
+year,team,kenpom_id,kenpom_off,kenpom_def,kenpom_adjem
 2015,Abilene Christian,2015 Abilene Christian,92.8823,113.168,-20.2857
 2015,Air Force,2015 Air Force,107.788,110.527,-2.73925
 2015,Akron,2015 Akron,104.892,98.6939,6.1982
@@ -3912,4 +3912,5 @@ year,team,kenpom_id,kenpom_oe,kenpom_def,kenpom_adjem
 2023,Wyoming,2023 Wyoming,107.887,106.647,1.24086
 2023,Xavier,2023 Xavier,119.297,99.604,19.693
 2023,Yale,2023 Yale,110.798,98.4067,12.391
+
 2023,Youngstown St.,2023 Youngstown St.,112.945,109.389,3.55573
