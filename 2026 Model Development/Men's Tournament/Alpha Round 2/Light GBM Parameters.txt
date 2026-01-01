@@ -1,0 +1,14 @@
+Final Best Parameters:
+  subsample_freq: 1
+  subsample: 0.9
+  reg_lambda: 5.0
+  reg_alpha: 0.1
+  num_leaves: 31
+  n_estimators: 500
+  min_split_gain: 0.001
+  min_child_weight: 0.001
+  min_child_samples: 15
+  max_depth: 7
+  max_bin: 511
+  learning_rate: 0.03
+  colsample_bytree: 0.5
