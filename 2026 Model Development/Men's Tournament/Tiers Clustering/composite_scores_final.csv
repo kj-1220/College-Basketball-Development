@@ -1,0 +1,749 @@
+team_id,year,team,seed,finish,weekend,conference,overall_score,offensive_score,defensive_score
+2015 Duke,2015,Duke,1,Champion,3,ACC,8.45,8.96,6.99
+2015 Kentucky,2015,Kentucky,1,Final Four,3,SEC,10.0,9.5,10.0
+2015 Michigan St.,2015,Michigan St.,7,Final Four,3,Big 10,7.19,6.85,6.37
+2015 Wisconsin,2015,Wisconsin,1,Runner Up,3,Big 10,8.89,8.67,8.55
+2015 Arizona,2015,Arizona,2,Elite Eight,2,Pac 12,8.35,7.98,7.66
+2015 Gonzaga,2015,Gonzaga,2,Elite Eight,2,WCC,8.18,8.49,8.2
+2015 Notre Dame,2015,Notre Dame,3,Elite Eight,2,ACC,7.42,8.16,5.99
+2015 Louisville,2015,Louisville,4,Sweet 16,2,ACC,6.68,5.49,7.73
+2015 NC St.,2015,North Carolina St.,8,Sweet 16,2,ACC,5.48,4.94,5.21
+2015 North Carolina,2015,North Carolina,4,Sweet 16,2,ACC,7.77,7.52,6.87
+2015 Oklahoma,2015,Oklahoma,3,Sweet 16,2,Big 12,6.79,5.22,7.67
+2015 UCLA,2015,UCLA,11,Sweet 16,2,Pac 12,5.05,5.36,4.92
+2015 Utah,2015,Utah,5,Sweet 16,2,Pac 12,8.31,7.76,8.22
+2015 West Virginia,2015,West Virginia,5,Sweet 16,2,Big 12,6.09,4.84,4.14
+2015 Wichita St.,2015,Wichita St.,7,Sweet 16,2,MVC,7.47,6.35,7.21
+2015 Xavier,2015,Xavier,6,Sweet 16,2,Big East,5.71,5.9,4.61
+2015 Albany,2015,Albany,14,First Round,1,America East,3.08,3.07,2.92
+2015 Baylor,2015,Baylor,3,First Round,1,Big 12,7.24,6.55,6.42
+2015 Belmont,2015,Belmont,15,First Round,1,OVC,3.52,4.76,3.06
+2015 Boise St.,2015,Boise St.,11,First Round,1,MWC,5.79,5.22,6.0
+2015 Buffalo,2015,Buffalo,12,First Round,1,MAC,4.73,4.7,4.5
+2015 BYU,2015,BYU,11,First Round,1,WCC,5.77,6.52,4.37
+2015 Coastal Carolina,2015,Coastal Carolina,16,First Round,1,Big South,2.86,3.18,3.05
+2015 Davidson,2015,Davidson,10,First Round,1,A10,6.31,6.42,5.3
+2015 Eastern Washington,2015,Eastern Washington,13,First Round,1,Big Sky,3.78,5.09,2.29
+2015 Georgia,2015,Georgia,10,First Round,1,SEC,5.56,4.87,5.62
+2015 Hampton,2015,Hampton,16,First Round,1,MEAC,0.78,1.09,2.35
+2015 Harvard,2015,Harvard,13,First Round,1,Ivy,4.28,3.44,5.01
+2015 Indiana,2015,Indiana,10,First Round,1,Big 10,5.59,6.03,4.25
+2015 Iowa St.,2015,Iowa St.,3,First Round,1,Big 12,7.01,6.84,5.74
+2015 Lafayette,2015,Lafayette,16,First Round,1,Patriot,2.28,4.19,1.73
+2015 LSU,2015,LSU,9,First Round,1,SEC,5.35,5.1,6.16
+2015 Manhattan,2015,Manhattan,16,First Round,1,MAAC,3.14,3.97,3.75
+2015 Mississippi,2015,Mississippi,11,First Round,1,SEC,5.34,5.08,4.44
+2015 New Mexico St.,2015,New Mexico St.,15,First Round,1,WAC,4.73,5.64,5.3
+2015 North Dakota St.,2015,North Dakota St.,15,First Round,1,Summit,2.61,2.26,3.22
+2015 North Florida,2015,North Florida,16,First Round,1,ASUN,3.34,4.64,3.66
+2015 Northeastern,2015,Northeastern,14,First Round,1,CAA,3.55,4.62,3.22
+2015 Oklahoma St.,2015,Oklahoma St.,9,First Round,1,Big 12,5.48,4.97,5.68
+2015 Providence,2015,Providence,6,First Round,1,Big East,6.24,5.9,5.62
+2015 Purdue,2015,Purdue,9,First Round,1,Big 10,5.89,5.89,5.85
+2015 Robert Morris,2015,Robert Morris,16,First Round,1,NEC,2.7,3.19,3.44
+2015 SMU,2015,SMU,6,First Round,1,AAC,6.42,6.9,5.91
+2015 St. John's,2015,St. John's,9,First Round,1,Big East,5.22,4.49,5.91
+2015 Stephen F. Austin,2015,Stephen F. Austin,12,First Round,1,Southland,5.99,6.88,4.48
+2015 Texas,2015,Texas,11,First Round,1,Big 12,6.21,5.33,6.22
+2015 Texas Southern,2015,Texas Southern,15,First Round,1,SWAC,2.3,2.64,2.51
+2015 UC Irvine,2015,UC Irvine,13,First Round,1,Big West,4.53,4.19,5.64
+2015 Valparaiso,2015,Valparaiso,13,First Round,1,Horizon,5.22,4.64,5.56
+2015 VCU,2015,VCU,7,First Round,1,A10,6.02,4.51,5.29
+2015 Wofford,2015,Wofford,12,First Round,1,Southern,4.31,3.92,4.69
+2015 Wyoming,2015,Wyoming,12,First Round,1,MWC,4.17,5.48,5.15
+2015 Arkansas,2015,Arkansas,5,Second Round,1,SEC,6.42,6.2,5.59
+2015 Butler,2015,Butler,6,Second Round,1,Big East,6.1,5.17,6.07
+2015 Cincinnati,2015,Cincinnati,8,Second Round,1,AAC,5.96,5.27,6.4
+2015 Dayton,2015,Dayton,11,Second Round,1,A10,4.86,4.83,4.84
+2015 Georgetown,2015,Georgetown,4,Second Round,1,Big East,6.61,6.18,5.8
+2015 Georgia St.,2015,Georgia St.,14,Second Round,1,Sun Belt,4.34,5.07,4.53
+2015 Iowa,2015,Iowa,7,Second Round,1,Big 10,6.78,6.21,7.32
+2015 Kansas,2015,Kansas,2,Second Round,1,Big 12,7.29,5.63,6.61
+2015 Maryland,2015,Maryland,4,Second Round,1,Big 10,6.52,5.45,6.62
+2015 Northern Iowa,2015,Northern Iowa,5,Second Round,1,MVC,6.99,6.39,6.51
+2015 Ohio St.,2015,Ohio St.,10,Second Round,1,Big 10,6.86,7.11,6.29
+2015 Oregon,2015,Oregon,8,Second Round,1,Pac 12,5.29,5.14,4.45
+2015 San Diego St.,2015,San Diego St.,8,Second Round,1,MWC,6.05,3.97,7.48
+2015 UAB,2015,UAB,14,Second Round,1,CUSA,3.29,3.24,3.96
+2015 Villanova,2015,Villanova,1,Second Round,1,Big East,8.34,7.96,6.81
+2015 Virginia,2015,Virginia,2,Second Round,1,ACC,8.05,6.42,8.42
+2016 Villanova,2016,Villanova,2,Champion,3,Big East,8.07,7.69,6.95
+2016 Oklahoma,2016,Oklahoma,2,Final Four,3,Big 12,7.24,6.58,6.59
+2016 Syracuse,2016,Syracuse,10,Final Four,3,ACC,5.21,5.36,5.41
+2016 North Carolina,2016,North Carolina,1,Runner Up,3,ACC,8.39,8.13,7.23
+2016 Kansas,2016,Kansas,1,Elite Eight,2,Big 12,8.28,7.74,7.2
+2016 Notre Dame,2016,Notre Dame,6,Elite Eight,2,ACC,5.08,5.92,4.17
+2016 Oregon,2016,Oregon,1,Elite Eight,2,Pac 12,6.71,6.89,5.67
+2016 Virginia,2016,Virginia,1,Elite Eight,2,ACC,8.25,7.96,6.72
+2016 Duke,2016,Duke,4,Sweet 16,2,ACC,6.91,7.73,6.16
+2016 Gonzaga,2016,Gonzaga,11,Sweet 16,2,WCC,6.3,6.59,6.89
+2016 Indiana,2016,Indiana,5,Sweet 16,2,Big 10,6.91,7.78,4.9
+2016 Iowa St.,2016,Iowa St.,4,Sweet 16,2,Big 12,6.28,6.87,5.7
+2016 Maryland,2016,Maryland,5,Sweet 16,2,Big 10,6.84,7.22,6.35
+2016 Miami FL,2016,Miami FL,3,Sweet 16,2,ACC,6.67,6.89,5.87
+2016 Texas A&M,2016,Texas A&M,3,Sweet 16,2,SEC,6.8,6.32,6.28
+2016 Wisconsin,2016,Wisconsin,7,Sweet 16,2,Big 10,5.14,4.6,5.07
+2016 Arizona,2016,Arizona,6,First Round,1,Pac 12,6.89,7.3,6.12
+2016 Austin Peay,2016,Austin Peay,16,First Round,1,OVC,1.42,3.61,1.42
+2016 Baylor,2016,Baylor,5,First Round,1,Big 12,5.72,6.34,3.3
+2016 Buffalo,2016,Buffalo,14,First Round,1,MAC,3.37,3.67,3.12
+2016 Cal St. Bakersfield,2016,Cal St. Bakersfield,15,First Round,1,WAC,4.06,3.65,4.76
+2016 California,2016,California,4,First Round,1,Pac 12,5.91,5.76,6.12
+2016 Chattanooga,2016,Chattanooga,12,First Round,1,Southern,4.11,4.64,3.47
+2016 Cincinnati,2016,Cincinnati,9,First Round,1,AAC,6.14,5.44,6.4
+2016 Colorado,2016,Colorado,8,First Round,1,Pac 12,5.64,4.82,5.48
+2016 Dayton,2016,Dayton,7,First Round,1,A10,5.74,4.93,5.19
+2016 Fairleigh Dickinson,2016,Fairleigh Dickinson,16,First Round,1,NEC,0.89,2.69,0.9
+2016 Florida Gulf Coast,2016,Florida Gulf Coast,16,First Round,1,ASUN,2.7,3.6,3.58
+2016 Fresno St.,2016,Fresno St.,14,First Round,1,MWC,4.35,4.28,4.51
+2016 Green Bay,2016,Green Bay,14,First Round,1,Horizon,3.54,3.98,3.08
+2016 Hampton,2016,Hampton,16,First Round,1,MEAC,1.56,2.05,2.48
+2016 Holy Cross,2016,Holy Cross,16,First Round,1,Patriot,0.34,1.55,1.35
+2016 Iona,2016,Iona,13,First Round,1,MAAC,4.05,4.85,3.99
+2016 Michigan,2016,Michigan,11,First Round,1,Big 10,5.44,5.51,4.45
+2016 Michigan St.,2016,Michigan St.,2,First Round,1,Big 10,8.86,8.61,7.22
+2016 Oregon St.,2016,Oregon St.,7,First Round,1,Pac 12,5.36,5.21,5.03
+2016 Pittsburgh,2016,Pittsburgh,10,First Round,1,ACC,5.9,5.91,4.49
+2016 Purdue,2016,Purdue,5,First Round,1,Big 10,7.15,7.35,6.8
+2016 Seton Hall,2016,Seton Hall,6,First Round,1,Big East,6.29,5.38,5.77
+2016 South Dakota St.,2016,South Dakota St.,12,First Round,1,Summit,4.58,4.47,4.02
+2016 Southern,2016,Southern,16,First Round,1,SWAC,1.91,2.22,3.33
+2016 Stony Brook,2016,Stony Brook,13,First Round,1,America East,4.37,4.89,4.51
+2016 Temple,2016,Temple,10,First Round,1,AAC,4.27,3.12,5.15
+2016 Texas,2016,Texas,6,First Round,1,Big 12,6.06,4.85,5.97
+2016 Texas Tech,2016,Texas Tech,8,First Round,1,Big 12,5.7,5.59,5.11
+2016 Tulsa,2016,Tulsa,11,First Round,1,AAC,4.92,4.61,4.74
+2016 UNC Asheville,2016,UNC Asheville,15,First Round,1,Big South,2.85,2.95,3.12
+2016 UNC Wilmington,2016,UNC Wilmington,13,First Round,1,CAA,4.39,4.44,4.17
+2016 USC,2016,USC,8,First Round,1,Pac 12,5.65,5.85,5.32
+2016 Vanderbilt,2016,Vanderbilt,11,First Round,1,SEC,6.78,6.68,7.35
+2016 Weber St.,2016,Weber St.,15,First Round,1,Big Sky,3.51,4.46,3.62
+2016 West Virginia,2016,West Virginia,3,First Round,1,Big 12,7.06,6.49,5.19
+2016 Little Rock,2016,Little Rock,12,Second Round,1,Sun Belt,5.55,4.44,5.61
+2016 Butler,2016,Butler,9,Second Round,1,Big East,5.78,6.08,4.62
+2016 Connecticut,2016,Connecticut,9,Second Round,1,AAC,6.25,5.89,6.73
+2016 Hawaii,2016,Hawaii,13,Second Round,1,Big West,5.61,5.83,5.98
+2016 Iowa,2016,Iowa,7,Second Round,1,Big 10,6.66,6.24,6.96
+2016 Kentucky,2016,Kentucky,4,Second Round,1,SEC,7.96,8.56,7.55
+2016 Middle Tennessee,2016,Middle Tennessee,15,Second Round,1,CUSA,4.32,4.14,4.43
+2016 Northern Iowa,2016,Northern Iowa,11,Second Round,1,MVC,4.84,4.27,5.12
+2016 Providence,2016,Providence,9,Second Round,1,Big East,5.4,4.83,5.41
+2016 Saint Joseph's,2016,Saint Joseph's,8,Second Round,1,A10,5.81,5.35,5.4
+2016 Stephen F. Austin,2016,Stephen F. Austin,14,Second Round,1,Southland,5.61,6.17,4.97
+2016 Utah,2016,Utah,3,Second Round,1,Pac 12,6.29,6.5,5.68
+2016 VCU,2016,VCU,10,Second Round,1,A10,5.77,5.21,5.07
+2016 Wichita St.,2016,Wichita St.,11,Second Round,1,MVC,7.16,5.83,7.03
+2016 Xavier,2016,Xavier,2,Second Round,1,Big East,6.82,6.54,5.44
+2016 Yale,2016,Yale,12,Second Round,1,Ivy,5.41,5.5,4.93
+2017 North Carolina,2017,North Carolina,1,Champion,3,ACC,7.94,7.55,6.47
+2017 Oregon,2017,Oregon,3,Final Four,3,Pac 12,7.28,7.58,6.83
+2017 South Carolina,2017,South Carolina,7,Final Four,3,SEC,6.36,4.83,7.28
+2017 Gonzaga,2017,Gonzaga,1,Runner Up,3,WCC,8.51,8.03,8.59
+2017 Florida,2017,Florida,4,Elite Eight,2,SEC,7.57,6.59,7.5
+2017 Kansas,2017,Kansas,1,Elite Eight,2,Big 12,7.89,8.13,6.33
+2017 Kentucky,2017,Kentucky,2,Elite Eight,2,SEC,7.75,7.67,6.64
+2017 Xavier,2017,Xavier,11,Elite Eight,2,Big East,5.38,5.69,3.72
+2017 Arizona,2017,Arizona,2,Sweet 16,2,Pac 12,7.3,7.17,6.21
+2017 Baylor,2017,Baylor,3,Sweet 16,2,Big 12,7.13,7.0,6.27
+2017 Butler,2017,Butler,4,Sweet 16,2,Big East,6.55,6.13,5.11
+2017 Michigan,2017,Michigan,7,Sweet 16,2,Big 10,6.9,7.42,5.77
+2017 Purdue,2017,Purdue,4,Sweet 16,2,Big 10,7.09,7.07,6.69
+2017 UCLA,2017,UCLA,3,Sweet 16,2,Pac 12,7.41,8.75,6.01
+2017 West Virginia,2017,West Virginia,4,Sweet 16,2,Big 12,7.85,7.16,6.57
+2017 Wisconsin,2017,Wisconsin,8,Sweet 16,2,Big Ten,7.15,6.25,6.79
+2017 Bucknell,2017,Bucknell,13,First Round,1,Patriot,4.84,5.2,4.7
+2017 Creighton,2017,Creighton,6,First Round,1,Big East,6.68,7.04,5.91
+2017 Dayton,2017,Dayton,7,First Round,1,A10,6.21,5.8,5.35
+2017 East Tennessee St.,2017,East Tennessee St.,13,First Round,1,Southern,4.91,5.53,4.18
+2017 Florida Gulf Coast,2017,Florida Gulf Coast,14,First Round,1,ASUN,4.33,5.65,3.66
+2017 Iona,2017,Iona,14,First Round,1,MAAC,3.26,3.49,2.78
+2017 Jacksonville St.,2017,Jacksonville St.,15,First Round,1,OVC,2.38,3.8,2.59
+2017 Kansas St.,2017,Kansas St.,11,First Round,1,Big 12,5.72,5.64,5.21
+2017 Kent St.,2017,Kent St.,14,First Round,1,MAC,3.36,3.06,3.3
+2017 Marquette,2017,Marquette,10,First Round,1,Big East,6.51,7.08,4.64
+2017 Maryland,2017,Maryland,6,First Round,1,Big 10,6.17,5.88,5.94
+2017 Miami FL,2017,Miami FL,8,First Round,1,ACC,5.88,5.77,5.51
+2017 Minnesota,2017,Minnesota,5,First Round,1,Big 10,5.87,5.05,6.15
+2017 Mount St. Mary's,2017,Mount St. Mary's,16,First Round,1,NEC,1.99,2.21,3.48
+2017 Nevada,2017,Nevada,12,First Round,1,MWC,4.93,5.53,4.32
+2017 New Mexico St.,2017,New Mexico St.,14,First Round,1,WAC,4.45,5.16,4.3
+2017 New Orleans,2017,New Orleans,16,First Round,1,Southland,2.48,3.66,2.81
+2017 North Carolina Central,2017,North Carolina Central,16,First Round,1,MEAC,2.89,3.4,4.36
+2017 North Dakota,2017,North Dakota,15,First Round,1,Big Sky,2.78,3.8,3.2
+2017 Northern Kentucky,2017,Northern Kentucky,15,First Round,1,Horizon,2.93,3.55,3.06
+2017 Oklahoma St.,2017,Oklahoma St.,10,First Round,1,Big 12,6.89,7.58,4.35
+2017 Princeton,2017,Princeton,12,First Round,1,Ivy,4.9,4.25,4.84
+2017 Providence,2017,Providence,11,First Round,1,Big East,4.99,4.26,4.88
+2017 Seton Hall,2017,Seton Hall,9,First Round,1,Big East,4.84,4.14,4.46
+2017 SMU,2017,SMU,6,First Round,1,AAC,7.36,7.62,6.87
+2017 South Dakota St.,2017,South Dakota St.,16,First Round,1,Summit,1.69,3.88,1.18
+2017 Texas Southern,2017,Texas Southern,16,First Round,1,SWAC,2.31,3.42,2.76
+2017 Troy,2017,Troy,15,First Round,1,Sun Belt,2.73,3.71,2.65
+2017 UC Davis,2017,UC Davis,16,First Round,1,Big West,1.94,2.18,2.93
+2017 UNC Wilmington,2017,UNC Wilmington,12,First Round,1,CAA,5.28,6.57,3.72
+2017 Vanderbilt,2017,Vanderbilt,9,First Round,1,SEC,5.64,5.08,5.36
+2017 VCU,2017,VCU,10,First Round,1,A10,5.53,5.07,5.28
+2017 Vermont,2017,Vermont,13,First Round,1,America East,4.96,5.08,4.36
+2017 Virginia Tech,2017,Virginia Tech,9,First Round,1,ACC,5.77,6.37,4.3
+2017 Wake Forest,2017,Wake Forest,11,First Round,1,ACC,6.14,7.08,3.97
+2017 Winthrop,2017,Winthrop,13,First Round,1,Big South,3.87,4.27,4.24
+2017 Arkansas,2017,Arkansas,8,Second Round,1,SEC,5.54,5.6,4.59
+2017 Cincinnati,2017,Cincinnati,6,Second Round,1,AAC,7.19,6.67,7.05
+2017 Duke,2017,Duke,2,Second Round,1,ACC,7.46,7.24,6.66
+2017 Florida St.,2017,Florida St.,3,Second Round,1,ACC,7.3,7.36,6.04
+2017 Iowa St.,2017,Iowa St.,5,Second Round,1,Big 12,7.13,6.25,6.4
+2017 Louisville,2017,Louisville,2,Second Round,1,ACC,7.52,6.46,6.95
+2017 Michigan St.,2017,Michigan St.,9,Second Round,1,Big 10,5.98,5.69,5.36
+2017 Middle Tennessee,2017,Middle Tennessee,12,Second Round,1,CUSA,5.87,5.66,5.77
+2017 Northwestern,2017,Northwestern,8,Second Round,1,Big 10,5.51,4.8,5.37
+2017 Notre Dame,2017,Notre Dame,5,Second Round,1,ACC,6.6,6.08,5.99
+2017 Rhode Island,2017,Rhode Island,11,Second Round,1,A10,5.69,5.15,5.67
+2017 Saint Mary's,2017,Saint Mary's,7,Second Round,1,WCC,6.82,7.11,6.25
+2017 USC,2017,USC,11,Second Round,1,Pac 12,5.5,5.9,4.86
+2017 Villanova,2017,Villanova,1,Second Round,1,Big East,7.66,8.09,6.07
+2017 Virginia,2017,Virginia,5,Second Round,1,ACC,7.09,5.58,6.69
+2017 Wichita St.,2017,Wichita St.,10,Second Round,1,MVC,8.02,7.39,6.92
+2018 Villanova,2018,Villanova,1,Champion,3,Big East,8.54,9.07,6.29
+2018 Kansas,2018,Kansas,1,Final Four,3,Big 12,7.39,8.16,6.32
+2018 Loyola Chicago,2018,Loyola Chicago,11,Final Four,3,MVC,5.67,4.9,5.35
+2018 Michigan,2018,Michigan,3,Runner Up,3,Big 10,6.95,6.37,6.57
+2018 Duke,2018,Duke,2,Elite Eight,2,ACC,8.0,9.28,6.97
+2018 Kansas St.,2018,Kansas St.,9,Elite Eight,2,Big 12,5.13,5.06,4.37
+2018 Texas Tech,2018,Texas Tech,3,Elite Eight,2,Big 12,7.42,6.98,6.89
+2018 Clemson,2018,Clemson,5,Sweet 16,2,ACC,6.11,5.45,5.49
+2018 Gonzaga,2018,Gonzaga,4,Sweet 16,2,WCC,7.11,7.62,5.97
+2018 Kentucky,2018,Kentucky,5,Sweet 16,2,SEC,6.43,6.56,5.21
+2018 Nevada,2018,Nevada,7,Sweet 16,2,MWC,5.82,6.4,4.85
+2018 Purdue,2018,Purdue,2,Sweet 16,2,Big 10,7.96,7.9,7.21
+2018 Syracuse,2018,Syracuse,11,Sweet 16,2,ACC,4.36,4.21,4.66
+2018 Texas A&M,2018,Texas A&M,7,Sweet 16,2,SEC,6.37,5.87,5.88
+2018 West Virginia,2018,West Virginia,5,Sweet 16,2,Big 12,7.04,6.45,5.54
+2018 Arizona,2018,Arizona,4,First Round,1,Pac 12,6.33,7.7,4.91
+2018 Arizona St.,2018,Arizona St.,11,First Round,1,Pac 12,4.95,5.92,3.72
+2018 Arkansas,2018,Arkansas,7,First Round,1,SEC,6.4,6.88,5.36
+2018 Bucknell,2018,Bucknell,14,First Round,1,Patriot,4.31,5.14,4.48
+2018 Cal St. Fullerton,2018,Cal St. Fullerton,15,First Round,1,Big West,2.58,3.81,2.92
+2018 Charleston,2018,College of Charleston,13,First Round,1,CAA,3.77,4.5,3.88
+2018 Creighton,2018,Creighton,8,First Round,1,Big East,6.15,6.53,4.71
+2018 Davidson,2018,Davidson,12,First Round,1,A10,5.05,5.74,4.44
+2018 Georgia St.,2018,Georgia St.,15,First Round,1,Sun Belt,3.72,4.46,4.05
+2018 Iona,2018,Iona,15,First Round,1,MAAC,2.83,3.67,2.24
+2018 Lipscomb,2018,Lipscomb,15,First Round,1,ASUN,3.0,3.57,3.03
+2018 LIU,2018,LIU Brooklyn,16,First Round,1,NEC,0.51,2.7,1.49
+2018 Miami FL,2018,Miami FL,6,First Round,1,ACC,5.61,5.5,4.8
+2018 Missouri,2018,Missouri,8,First Round,1,SEC,5.5,5.72,5.04
+2018 Montana,2018,Montana,14,First Round,1,Big Sky,4.57,4.83,4.25
+2018 Murray St.,2018,Murray St.,12,First Round,1,OVC,5.0,6.02,4.98
+2018 NC St.,2018,North Carolina St.,9,First Round,1,ACC,5.44,6.03,4.52
+2018 New Mexico St.,2018,New Mexico St.,12,First Round,1,WAC,5.24,4.55,5.46
+2018 North Carolina Central,2018,North Carolina Central,16,First Round,1,MEAC,0.03,2.22,0.89
+2018 Oklahoma,2018,Oklahoma,10,First Round,1,Big 12,5.37,5.94,4.4
+2018 Penn,2018,Penn,16,First Round,1,Ivy,3.54,3.14,4.59
+2018 Providence,2018,Providence,10,First Round,1,Big East,4.96,4.07,4.49
+2018 Radford,2018,Radford,16,First Round,1,Big South,2.52,2.9,2.81
+2018 San Diego St.,2018,San Diego St.,11,First Round,1,MWC,5.44,5.4,4.93
+2018 South Dakota St.,2018,South Dakota St.,12,First Round,1,Summit,4.89,5.02,4.13
+2018 St. Bonaventure,2018,St. Bonaventure,11,First Round,1,A10,4.4,4.91,3.75
+2018 Stephen F. Austin,2018,Stephen F. Austin,14,First Round,1,Southland,4.08,4.66,3.17
+2018 TCU,2018,TCU,6,First Round,1,Big 12,6.33,7.43,3.96
+2018 Texas,2018,Texas,10,First Round,1,Big 12,5.06,4.53,5.09
+2018 Texas Southern,2018,Texas Southern,16,First Round,1,SWAC,1.39,3.38,1.62
+2018 UCLA,2018,UCLA,11,First Round,1,Pac 12,4.92,5.46,4.22
+2018 UNC Greensboro,2018,UNC Greensboro,13,First Round,1,Southern,4.08,4.16,3.9
+2018 Virginia,2018,Virginia,1,First Round,1,ACC,8.12,6.36,7.92
+2018 Virginia Tech,2018,Virginia Tech,8,First Round,1,ACC,5.72,6.0,4.56
+2018 Wichita St.,2018,Wichita St.,4,First Round,1,AAC,6.84,7.46,4.82
+2018 Wright St.,2018,Wright St.,14,First Round,1,Horizon,3.22,2.59,3.77
+2018 Alabama,2018,Alabama,9,Second Round,1,SEC,5.51,5.52,5.47
+2018 Auburn,2018,Auburn,4,Second Round,1,SEC,6.06,5.97,4.37
+2018 Buffalo,2018,Buffalo,13,Second Round,1,MAC,5.28,5.89,4.61
+2018 Butler,2018,Butler,10,Second Round,1,Big East,5.72,5.43,4.8
+2018 Cincinnati,2018,Cincinnati,2,Second Round,1,AAC,8.06,6.86,8.16
+2018 Florida,2018,Florida,6,Second Round,1,SEC,6.19,5.39,5.96
+2018 Florida St.,2018,Florida St.,9,Second Round,1,ACC,6.02,6.81,4.88
+2018 Houston,2018,Houston,6,Second Round,1,AAC,6.22,5.83,5.76
+2018 Marshall,2018,Marshall,13,Second Round,1,CUSA,3.94,4.91,4.02
+2018 Michigan St.,2018,Michigan St.,3,Second Round,1,Big 10,8.19,8.64,6.71
+2018 North Carolina,2018,North Carolina,2,Second Round,1,ACC,7.04,6.71,5.25
+2018 Ohio St.,2018,Ohio St.,5,Second Round,1,Big 10,6.93,6.28,5.93
+2018 Rhode Island,2018,Rhode Island,7,Second Round,1,A10,5.25,4.68,4.45
+2018 Seton Hall,2018,Seton Hall,8,Second Round,1,Big East,5.49,5.56,4.49
+2018 Tennessee,2018,Tennessee,3,Second Round,1,SEC,6.82,5.81,5.94
+2018 UMBC,2018,UMBC,16,Second Round,1,America East,2.63,3.23,3.05
+2018 Xavier,2018,Xavier,1,Second Round,1,Big East,7.02,7.18,4.82
+2019 Virginia,2019,Virginia,1,Champion,3,ACC,8.75,7.95,8.8
+2019 Auburn,2019,Auburn,5,Final Four,3,SEC,6.77,6.75,5.11
+2019 Michigan St.,2019,Michigan St.,2,Final Four,3,Big 10,8.38,7.78,7.23
+2019 Texas Tech,2019,Texas Tech,3,Runner Up,3,Big 12,7.68,6.73,8.61
+2019 Duke,2019,Duke,1,Elite Eight,2,ACC,8.6,8.42,8.2
+2019 Gonzaga,2019,Gonzaga,1,Elite Eight,2,WCC,8.62,9.65,8.44
+2019 Kentucky,2019,Kentucky,2,Elite Eight,2,SEC,7.54,7.29,6.3
+2019 Purdue,2019,Purdue,3,Elite Eight,2,Big 10,7.14,7.01,5.95
+2019 Florida St.,2019,Florida St.,4,Sweet 16,2,ACC,6.75,6.24,5.89
+2019 Houston,2019,Houston,3,Sweet 16,2,AAC,7.04,5.94,6.85
+2019 LSU,2019,LSU,3,Sweet 16,2,SEC,6.93,7.07,5.48
+2019 Michigan,2019,Michigan,2,Sweet 16,2,Big 10,7.57,6.19,8.44
+2019 North Carolina,2019,North Carolina,1,Sweet 16,2,ACC,7.67,7.11,6.41
+2019 Oregon,2019,Oregon,12,Sweet 16,2,Pac 12,5.2,4.41,5.53
+2019 Tennessee,2019,Tennessee,2,Sweet 16,2,SEC,7.68,7.61,6.3
+2019 Virginia Tech,2019,Virginia Tech,4,Sweet 16,2,ACC,6.71,6.65,5.92
+2019 Abilene Christian,2019,Abilene Christian,15,First Round,1,Southland,3.15,3.77,3.46
+2019 Arizona St.,2019,Arizona St.,11,First Round,1,Pac 12,4.59,5.06,3.97
+2019 Belmont,2019,Belmont,11,First Round,1,OVC,5.65,6.85,5.37
+2019 Bradley,2019,Bradley,15,First Round,1,MVC,2.29,2.44,3.18
+2019 Cincinnati,2019,Cincinnati,7,First Round,1,AAC,6.22,5.42,5.66
+2019 Colgate,2019,Colgate,15,First Round,1,Patriot,3.07,4.44,2.35
+2019 Fairleigh Dickinson,2019,Fairleigh Dickinson,16,First Round,1,NEC,1.73,4.11,1.7
+2019 Gardner Webb,2019,Gardner Webb,16,First Round,1,Big South,2.56,3.84,2.67
+2019 Georgia St.,2019,Georgia St.,14,First Round,1,Sun Belt,3.62,3.67,3.27
+2019 Iona,2019,Iona,16,First Round,1,MAAC,1.73,3.15,1.97
+2019 Iowa St.,2019,Iowa St.,6,First Round,1,Big 12,6.27,6.46,5.71
+2019 Kansas St.,2019,Kansas St.,4,First Round,1,Big 12,6.26,4.38,6.34
+2019 Louisville,2019,Louisville,7,First Round,1,ACC,6.18,5.32,6.18
+2019 Marquette,2019,Marquette,5,First Round,1,Big East,5.62,5.32,5.42
+2019 Mississippi,2019,Mississippi,8,First Round,1,SEC,5.5,5.61,4.77
+2019 Mississippi St.,2019,Mississippi St.,5,First Round,1,SEC,6.28,6.52,5.13
+2019 Montana,2019,Montana,15,First Round,1,Big Sky,3.45,4.67,3.35
+2019 Nevada,2019,Nevada,7,First Round,1,MWC,6.11,6.56,5.74
+2019 New Mexico St.,2019,New Mexico St.,12,First Round,1,WAC,5.92,5.89,4.47
+2019 North Carolina Central,2019,North Carolina Central,16,First Round,1,MEAC,0.82,2.49,1.63
+2019 North Dakota St.,2019,North Dakota St.,16,First Round,1,Summit,1.92,2.86,1.46
+2019 Northeastern,2019,Northeastern,13,First Round,1,CAA,4.44,5.57,3.61
+2019 Northern Kentucky,2019,Northern Kentucky,14,First Round,1,Horizon,4.44,5.06,4.17
+2019 Old Dominion,2019,Old Dominion,14,First Round,1,CUSA,3.15,2.42,4.46
+2019 Prairie View A&M,2019,Prairie View A&M,16,First Round,1,SWAC,1.82,2.25,2.3
+2019 Saint Louis,2019,Saint Louis,13,First Round,1,A10,3.49,2.89,4.15
+2019 Saint Mary's,2019,Saint Mary's,11,First Round,1,WCC,5.5,5.42,5.53
+2019 Seton Hall,2019,Seton Hall,10,First Round,1,Big East,4.46,4.26,4.62
+2019 St. John's,2019,St. John's,11,First Round,1,Big East,4.12,4.37,4.28
+2019 Syracuse,2019,Syracuse,8,First Round,1,ACC,5.0,4.8,4.65
+2019 Temple,2019,Temple,11,First Round,1,AAC,4.67,4.35,4.59
+2019 Utah St.,2019,Utah St.,8,First Round,1,MWC,5.61,5.94,4.83
+2019 VCU,2019,VCU,8,First Round,1,A10,6.28,4.61,6.8
+2019 Vermont,2019,Vermont,13,First Round,1,America East,4.68,3.98,4.43
+2019 Wisconsin,2019,Wisconsin,5,First Round,1,Big 10,6.81,4.66,7.46
+2019 Yale,2019,Yale,14,First Round,1,Ivy,4.76,5.72,4.49
+2019 Baylor,2019,Baylor,9,Second Round,1,Big 12,5.07,5.15,3.83
+2019 Buffalo,2019,Buffalo,6,Second Round,1,MAC,6.77,6.28,6.53
+2019 Florida,2019,Florida,10,Second Round,1,SEC,6.04,4.78,6.07
+2019 Iowa,2019,Iowa,10,Second Round,1,Big 10,5.35,5.72,3.67
+2019 Kansas,2019,Kansas,4,Second Round,1,Big 12,6.41,5.35,5.89
+2019 Liberty,2019,Liberty,12,Second Round,1,ASUN,4.79,4.84,4.49
+2019 Maryland,2019,Maryland,6,Second Round,1,Big 10,6.14,5.71,5.63
+2019 Minnesota,2019,Minnesota,10,Second Round,1,Big 10,5.16,4.77,4.82
+2019 Murray St.,2019,Murray St.,12,Second Round,1,OVC,5.48,6.53,5.43
+2019 Ohio St.,2019,Ohio St.,11,Second Round,1,Big 10,5.17,4.54,4.87
+2019 Oklahoma,2019,Oklahoma,9,Second Round,1,Big 12,5.81,4.19,6.0
+2019 UC Irvine,2019,UC Irvine,13,Second Round,1,Big West,5.17,4.27,5.67
+2019 UCF,2019,UCF,9,Second Round,1,AAC,5.76,6.44,6.01
+2019 Villanova,2019,Villanova,6,Second Round,1,Big East,5.53,6.11,4.35
+2019 Washington,2019,Washington,9,Second Round,1,Pac 12,5.37,5.07,5.41
+2019 Wofford,2019,Wofford,7,Second Round,1,Southern,6.66,7.05,5.37
+2021 Baylor,2021,Baylor,1,Champion,3,Big 12,8.07,8.16,6.79
+2021 Houston,2021,Houston,2,Final Four,3,AAC,7.42,6.59,7.27
+2021 UCLA,2021,UCLA,11,Final Four,3,Pac 12,5.65,5.05,4.66
+2021 Gonzaga,2021,Gonzaga,1,Runner Up,3,WCC,8.76,9.26,7.7
+2021 Arkansas,2021,Arkansas,3,Elite Eight,2,SEC,6.19,5.2,6.04
+2021 Michigan,2021,Michigan,1,Elite Eight,2,Big 10,7.53,7.14,7.34
+2021 Oregon St.,2021,Oregon St.,12,Elite Eight,2,Pac 12,4.97,4.33,4.65
+2021 USC,2021,USC,6,Elite Eight,2,Pac 12,7.24,6.7,6.92
+2021 Alabama,2021,Alabama,2,Sweet 16,2,SEC,7.39,5.56,7.52
+2021 Creighton,2021,Creighton,5,Sweet 16,2,Big East,6.38,6.01,6.15
+2021 Florida St.,2021,Florida St.,4,Sweet 16,2,ACC,7.54,7.53,6.42
+2021 Loyola Chicago,2021,Loyola Chicago,8,Sweet 16,2,MVC,6.53,5.74,6.61
+2021 Oral Roberts,2021,Oral Roberts,15,Sweet 16,2,Summit,2.98,3.33,3.41
+2021 Oregon,2021,Oregon,7,Sweet 16,2,Pac 12,6.34,6.1,5.34
+2021 Syracuse,2021,Syracuse,11,Sweet 16,2,ACC,5.03,5.18,4.89
+2021 Villanova,2021,Villanova,5,Sweet 16,2,Big East,6.27,6.19,5.27
+2021 Appalachian St.,2021,Appalachian St.,16,First Round,1,Sun Belt,1.6,1.57,2.94
+2021 BYU,2021,BYU,6,First Round,1,WCC,6.52,5.55,6.07
+2021 Clemson,2021,Clemson,7,First Round,1,ACC,5.94,4.03,6.13
+2021 Cleveland St.,2021,Cleveland St.,15,First Round,1,Horizon,2.73,2.66,3.18
+2021 Colgate,2021,Colgate,14,First Round,1,Patriot,5.01,5.16,4.94
+2021 Colorado,2021,Colorado,5,First Round,1,Pac 12,6.33,5.33,5.92
+2021 Connecticut,2021,Connecticut,7,First Round,1,Big East,6.72,5.6,6.1
+2021 Drake,2021,Drake,11,First Round,1,MVC,5.29,5.08,4.73
+2021 Drexel,2021,Drexel,16,First Round,1,CAA,3.19,3.94,2.98
+2021 Eastern Washington,2021,Eastern Washington,14,First Round,1,Big Sky,4.19,4.15,4.45
+2021 Georgetown,2021,Georgetown,12,First Round,1,Big East,4.43,3.49,4.67
+2021 Georgia Tech,2021,Georgia Tech,9,First Round,1,ACC,5.41,5.85,4.71
+2021 Grand Canyon,2021,Grand Canyon,15,First Round,1,WAC,4.16,4.23,5.26
+2021 Hartford,2021,Hartford,16,First Round,1,America East,2.27,1.82,4.0
+2021 Iona,2021,Iona,15,First Round,1,MAAC,3.02,3.41,3.74
+2021 Liberty,2021,Liberty,13,First Round,1,ASUN,4.76,4.95,4.61
+2021 Michigan St.,2021,Michigan St.,11,First Round,1,Big 10,5.47,3.92,5.02
+2021 Missouri,2021,Missouri,9,First Round,1,SEC,5.36,4.67,5.15
+2021 Morehead St.,2021,Morehead St.,14,First Round,1,OVC,3.25,3.03,3.93
+2021 Mount St. Mary's,2021,Mount St. Mary's,16,First Round,1,NEC,1.43,1.76,3.19
+2021 Norfolk St.,2021,Norfolk St.,16,First Round,1,MEAC,2.38,2.3,2.98
+2021 North Carolina,2021,North Carolina,8,First Round,1,ACC,5.98,5.21,5.46
+2021 Ohio St.,2021,Ohio St.,2,First Round,1,Big 10,6.5,5.89,4.88
+2021 Purdue,2021,Purdue,4,First Round,1,Big 10,6.0,5.21,5.08
+2021 San Diego St.,2021,San Diego St.,6,First Round,1,MWC,6.67,5.65,6.29
+2021 St. Bonaventure,2021,St. Bonaventure,9,First Round,1,A10,5.6,5.28,6.08
+2021 Tennessee,2021,Tennessee,5,First Round,1,SEC,6.21,5.06,6.32
+2021 Texas,2021,Texas,3,First Round,1,Big 12,6.12,6.09,5.6
+2021 Texas Southern,2021,Texas Southern,16,First Round,1,SWAC,2.19,2.51,3.14
+2021 UC Santa Barbara,2021,UC Santa Barbara,12,First Round,1,Big West,5.2,5.36,5.26
+2021 UNC Greensboro,2021,UNC Greensboro,13,First Round,1,Southern,3.69,3.04,4.36
+2021 Utah St.,2021,Utah St.,11,First Round,1,MWC,5.77,4.9,6.14
+2021 VCU,2021,VCU,10,First Round,1,A10,5.78,4.59,6.03
+2021 Virginia,2021,Virginia,4,First Round,1,ACC,6.82,6.82,6.87
+2021 Virginia Tech,2021,Virginia Tech,10,First Round,1,ACC,5.31,4.75,4.99
+2021 Wichita St.,2021,Wichita St.,11,First Round,1,AAC,4.76,3.82,4.95
+2021 Winthrop,2021,Winthrop,12,First Round,1,Big South,4.8,4.35,4.16
+2021 Abilene Christian,2021,Abilene Christian,14,Second Round,1,Southland,4.66,4.38,5.48
+2021 Florida,2021,Florida,7,Second Round,1,SEC,5.69,5.41,5.42
+2021 Illinois,2021,Illinois,1,Second Round,1,Big 10,7.78,7.6,6.65
+2021 Iowa,2021,Iowa,2,Second Round,1,Big 10,7.41,7.33,6.46
+2021 Kansas,2021,Kansas,3,Second Round,1,Big 12,5.77,4.13,6.13
+2021 LSU,2021,LSU,8,Second Round,1,SEC,5.81,5.86,5.28
+2021 Maryland,2021,Maryland,10,Second Round,1,Big 10,5.7,4.86,5.71
+2021 North Texas,2021,North Texas,13,Second Round,1,CUSA,4.32,4.1,5.2
+2021 Ohio,2021,Ohio,13,Second Round,1,MAC,4.72,5.32,3.95
+2021 Oklahoma,2021,Oklahoma,8,Second Round,1,Big 12,5.56,4.61,5.5
+2021 Oklahoma St.,2021,Oklahoma St.,4,Second Round,1,Big 12,5.81,4.76,5.3
+2021 Rutgers,2021,Rutgers,10,Second Round,1,Big 10,5.54,4.45,6.15
+2021 Texas Tech,2021,Texas Tech,6,Second Round,1,Big 12,6.43,5.5,6.13
+2021 West Virginia,2021,West Virginia,3,Second Round,1,Big 12,6.09,5.37,5.18
+2021 Wisconsin,2021,Wisconsin,9,Second Round,1,Big 10,6.32,4.53,6.6
+2022 Kansas,2022,Kansas,1,Champion,3,Big 12,7.42,7.07,6.73
+2022 Duke,2022,Duke,2,Final Four,3,ACC,7.13,7.69,6.68
+2022 Villanova,2022,Villanova,2,Final Four,3,Big East,6.62,5.5,6.03
+2022 North Carolina,2022,North Carolina,8,Runner Up,3,ACC,5.5,5.35,5.2
+2022 Arkansas,2022,Arkansas,4,Elite Eight,2,SEC,5.7,4.99,5.73
+2022 Houston,2022,Houston,5,Elite Eight,2,AAC,7.5,7.43,7.57
+2022 Miami FL,2022,Miami FL,10,Elite Eight,2,ACC,4.93,5.24,4.22
+2022 Saint Peter's,2022,Saint Peter's,15,Elite Eight,2,MAAC,3.7,2.59,4.72
+2022 Arizona,2022,Arizona,1,Sweet 16,2,Pac 12,7.67,8.24,7.23
+2022 Gonzaga,2022,Gonzaga,1,Sweet 16,2,WCC,7.88,8.13,7.95
+2022 Iowa St.,2022,Iowa St.,11,Sweet 16,2,Big 12,5.12,3.8,5.88
+2022 Michigan,2022,Michigan,11,Sweet 16,2,Big 10,4.74,5.41,5.12
+2022 Providence,2022,Providence,4,Sweet 16,2,Big East,5.29,4.75,5.19
+2022 Purdue,2022,Purdue,3,Sweet 16,2,Big 10,6.7,7.67,4.69
+2022 Texas Tech,2022,Texas Tech,3,Sweet 16,2,Big 12,7.06,5.89,7.07
+2022 UCLA,2022,UCLA,4,Sweet 16,2,Pac 12,6.71,5.14,6.37
+2022 Akron,2022,Akron,13,First Round,1,MAC,3.12,3.98,3.64
+2022 Alabama,2022,Alabama,6,First Round,1,SEC,5.64,6.07,4.75
+2022 Boise St.,2022,Boise St.,8,First Round,1,MWC,5.68,4.45,5.81
+2022 Bryant,2022,Bryant,16,First Round,1,NEC,3.0,3.54,3.79
+2022 Cal St. Fullerton,2022,Cal St. Fullerton,15,First Round,1,Big West,2.57,2.53,3.08
+2022 Chattanooga,2022,Chattanooga,13,First Round,1,Southern,4.64,4.2,4.71
+2022 Colgate,2022,Colgate,14,First Round,1,Patriot,3.32,4.43,3.66
+2022 Colorado St.,2022,Colorado St.,6,First Round,1,MWC,5.83,5.27,5.23
+2022 Connecticut,2022,Connecticut,5,First Round,1,Big East,6.09,5.16,5.9
+2022 Davidson,2022,Davidson,10,First Round,1,A10,5.49,5.93,4.36
+2022 Delaware,2022,Delaware,15,First Round,1,CAA,3.2,4.25,3.44
+2022 Georgia St.,2022,Georgia St.,16,First Round,1,Sun Belt,3.23,1.69,3.41
+2022 Indiana,2022,Indiana,12,First Round,1,Big 10,5.46,5.6,6.36
+2022 Iowa,2022,Iowa,5,First Round,1,Big 10,7.2,7.15,6.24
+2022 Jacksonville St.,2022,Jacksonville St.,15,First Round,1,ASUN,3.07,3.81,3.1
+2022 Kentucky,2022,Kentucky,2,First Round,1,SEC,6.99,7.41,6.58
+2022 Longwood,2022,Longwood,14,First Round,1,Big South,3.52,3.86,3.01
+2022 Loyola Chicago,2022,Loyola Chicago,10,First Round,1,MVC,5.83,5.2,5.64
+2022 LSU,2022,LSU,6,First Round,1,SEC,6.4,5.64,7.48
+2022 Marquette,2022,Marquette,9,First Round,1,Big East,4.77,4.62,5.33
+2022 Montana St.,2022,Montana St.,14,First Round,1,Big Sky,3.28,4.09,3.0
+2022 Norfolk St.,2022,Norfolk St.,16,First Round,1,MEAC,2.99,3.66,3.95
+2022 Rutgers,2022,Rutgers,11,First Round,1,Big 10,4.35,4.19,5.19
+2022 San Diego St.,2022,San Diego St.,8,First Round,1,MWC,5.84,3.96,7.17
+2022 San Francisco,2022,San Francisco,10,First Round,1,WCC,5.7,5.2,5.75
+2022 Seton Hall,2022,Seton Hall,8,First Round,1,Big East,4.94,3.64,5.42
+2022 South Dakota St.,2022,South Dakota St.,13,First Round,1,Summit,4.94,6.03,3.43
+2022 Texas A&M Corpus Chris,2022,Texas A&M Corpus Chris,16,First Round,1,Southland,2.11,1.9,2.88
+2022 Texas Southern,2022,Texas Southern,16,First Round,1,SWAC,2.68,2.33,4.09
+2022 UAB,2022,UAB,12,First Round,1,CUSA,5.01,5.28,5.06
+2022 USC,2022,USC,7,First Round,1,Pac 12,5.34,4.91,5.56
+2022 Vermont,2022,Vermont,13,First Round,1,America East,4.97,5.34,5.33
+2022 Virginia Tech,2022,Virginia Tech,11,First Round,1,ACC,5.72,5.98,5.52
+2022 Wright St.,2022,Wright St.,16,First Round,1,Horizon,1.94,3.75,3.04
+2022 Wyoming,2022,Wyoming,12,First Round,1,MWC,4.69,4.23,5.01
+2022 Yale,2022,Yale,14,First Round,1,Ivy,2.96,1.98,3.65
+2022 Auburn,2022,Auburn,2,Second Round,1,SEC,6.74,6.81,7.77
+2022 Baylor,2022,Baylor,1,Second Round,1,Big 12,7.57,6.97,6.49
+2022 Creighton,2022,Creighton,9,Second Round,1,Big East,4.93,4.52,6.53
+2022 Illinois,2022,Illinois,4,Second Round,1,Big 10,5.84,5.94,6.1
+2022 Memphis,2022,Memphis,9,Second Round,1,AAC,6.22,6.37,5.67
+2022 Michigan St.,2022,Michigan St.,7,Second Round,1,Big 10,5.27,4.55,4.73
+2022 Murray St.,2022,Murray St.,7,Second Round,1,OVC,5.63,5.48,5.64
+2022 New Mexico St.,2022,New Mexico St.,12,Second Round,1,WAC,4.59,4.65,4.52
+2022 Notre Dame,2022,Notre Dame,11,Second Round,1,ACC,5.07,4.57,5.18
+2022 Ohio St.,2022,Ohio St.,7,Second Round,1,Big 10,5.6,6.07,5.46
+2022 Richmond,2022,Richmond,12,Second Round,1,A10,4.44,4.23,5.2
+2022 Saint Mary's,2022,Saint Mary's,5,Second Round,1,WCC,5.73,4.32,5.92
+2022 TCU,2022,TCU,9,Second Round,1,Big 12,5.46,4.16,5.05
+2022 Tennessee,2022,Tennessee,3,Second Round,1,SEC,7.55,5.87,7.2
+2022 Texas,2022,Texas,6,Second Round,1,Big 12,6.24,4.77,6.47
+2022 Wisconsin,2022,Wisconsin,3,Second Round,1,Big 10,5.77,4.28,5.85
+2023 Connecticut,2023,Connecticut,4,Champion,3,Big East,7.27,7.49,6.81
+2023 Florida Atlantic,2023,Florida Atlantic,9,Final Four,3,CUSA,6.69,5.58,6.26
+2023 Miami FL,2023,Miami FL,5,Final Four,3,ACC,5.82,6.41,4.29
+2023 San Diego St.,2023,San Diego St.,5,Runner Up,3,MWC,6.42,4.85,6.05
+2023 Creighton,2023,Creighton,6,Elite Eight,2,Big East,6.44,6.45,6.36
+2023 Kansas St.,2023,Kansas St.,3,Elite Eight,2,Big 12,5.87,5.75,5.75
+2023 Texas,2023,Texas,2,Elite Eight,2,Big 12,7.12,6.25,6.47
+2023 Alabama,2023,Alabama,1,Sweet 16,2,SEC,8.29,7.2,8.06
+2023 Arkansas,2023,Arkansas,8,Sweet 16,2,SEC,5.8,5.96,5.77
+2023 Houston,2023,Houston,1,Sweet 16,2,AAC,8.19,7.42,8.07
+2023 Michigan St.,2023,Michigan St.,7,Sweet 16,2,Big 10,5.79,4.77,5.67
+2023 Tennessee,2023,Tennessee,4,Sweet 16,2,SEC,7.35,6.02,7.72
+2023 UCLA,2023,UCLA,2,Sweet 16,2,Pac 12,7.15,5.9,7.3
+2023 Xavier,2023,Xavier,3,Sweet 16,2,Big East,6.5,6.8,4.92
+2023 Arizona,2023,Arizona,2,First Round,1,Pac 12,7.01,7.72,6.21
+2023 Arizona St.,2023,Arizona St.,11,First Round,1,Pac 12,5.47,4.37,5.8
+2023 Boise St.,2023,Boise St.,10,First Round,1,MWC,5.41,4.18,5.62
+2023 Charleston,2023,College of Charleston,12,First Round,1,CAA,5.3,4.52,4.81
+2023 Colgate,2023,Colgate,15,First Round,1,Patriot,4.11,5.57,3.36
+2023 Drake,2023,Drake,12,First Round,1,MVC,4.88,3.84,5.62
+2023 Grand Canyon,2023,Grand Canyon,14,First Round,1,WAC,3.73,3.92,3.61
+2023 Howard,2023,Howard,16,First Round,1,MEAC,2.45,3.17,2.51
+2023 Illinois,2023,Illinois,9,First Round,1,Big 10,5.75,5.41,5.81
+2023 Iona,2023,Iona,13,First Round,1,MAAC,5.16,5.08,5.79
+2023 Iowa,2023,Iowa,8,First Round,1,Big 10,5.19,5.7,4.15
+2023 Iowa St.,2023,Iowa St.,6,First Round,1,Big 12,5.36,4.69,4.81
+2023 Kennesaw St.,2023,Kennesaw St.,14,First Round,1,ASUN,3.67,3.86,3.04
+2023 Kent St.,2023,Kent St.,13,First Round,1,MAC,5.04,4.48,4.96
+2023 Louisiana,2023,Louisiana Lafayette,13,First Round,1,Sun Belt,4.4,5.0,4.13
+2023 Memphis,2023,Memphis,8,First Round,1,AAC,6.31,6.14,5.52
+2023 Mississippi St.,2023,Mississippi St.,11,First Round,1,SEC,5.31,4.32,5.93
+2023 Montana St.,2023,Montana St.,14,First Round,1,Big Sky,3.84,4.36,3.82
+2023 NC St.,2023,North Carolina St.,11,First Round,1,ACC,5.43,4.84,5.17
+2023 Nevada,2023,Nevada,11,First Round,1,MWC,4.68,4.48,4.28
+2023 Northern Kentucky,2023,Northern Kentucky,16,First Round,1,Horizon,2.64,2.84,3.0
+2023 Oral Roberts,2023,Oral Roberts,12,First Round,1,Summit,5.08,5.81,5.16
+2023 Princeton,2023,Princeton,15,First Round,1,Ivy,3.55,3.91,3.66
+2023 Providence,2023,Providence,11,First Round,1,Big East,5.34,5.79,4.15
+2023 Purdue,2023,Purdue,1,First Round,1,Big 10,7.55,7.61,6.66
+2023 Southeast Missouri St.,2023,Southeast Missouri St.,16,First Round,1,OVC,0.85,2.09,1.34
+2023 Texas A&M,2023,Texas A&M,7,First Round,1,SEC,6.2,5.66,5.29
+2023 Texas A&M Corpus Chris,2023,Texas A&M Corpus Chris,16,First Round,1,Southland,2.12,3.1,1.32
+2023 Texas Southern,2023,Texas Southern,16,First Round,1,SWAC,0.63,1.05,2.15
+2023 UC Santa Barbara,2023,UC Santa Barbara,14,First Round,1,Big West,3.72,4.73,3.7
+2023 UNC Asheville,2023,UNC Asheville,15,First Round,1,Big South,2.95,4.11,3.84
+2023 USC,2023,USC,10,First Round,1,Pac 12,5.68,5.28,6.06
+2023 Utah St.,2023,Utah St.,10,First Round,1,MWC,6.22,6.82,5.42
+2023 VCU,2023,VCU,12,First Round,1,A10,5.05,4.82,5.19
+2023 Vermont,2023,Vermont,15,First Round,1,America East,4.14,4.25,3.69
+2023 Virginia,2023,Virginia,4,First Round,1,ACC,6.11,5.61,5.72
+2023 West Virginia,2023,West Virginia,9,First Round,1,Big 12,5.77,5.76,4.6
+2023 Auburn,2023,Auburn,9,Second Round,1,SEC,6.24,5.86,6.58
+2023 Baylor,2023,Baylor,3,Second Round,1,Big 12,6.49,6.62,4.58
+2023 Duke,2023,Duke,5,Second Round,1,ACC,6.55,6.18,6.0
+2023 Fairleigh Dickinson,2023,Fairleigh Dickinson,16,Second Round,1,NEC,0.64,2.5,0.0
+2023 Furman,2023,Furman,13,Second Round,1,Southern,4.49,5.96,3.63
+2023 Gonzaga,2023,Gonzaga,3,Second Round,1,WCC,6.94,7.82,5.26
+2023 Indiana,2023,Indiana,4,Second Round,1,Big 10,6.13,6.26,5.72
+2023 Kansas,2023,Kansas,1,Second Round,1,Big 12,6.57,5.82,6.43
+2023 Kentucky,2023,Kentucky,6,Second Round,1,SEC,6.05,6.48,5.2
+2023 Marquette,2023,Marquette,2,Second Round,1,Big East,7.26,7.46,5.72
+2023 Maryland,2023,Maryland,8,Second Round,1,Big 10,5.63,5.01,5.76
+2023 Missouri,2023,Missouri,7,Second Round,1,SEC,6.1,6.89,4.75
+2023 Northwestern,2023,Northwestern,7,Second Round,1,Big 10,5.0,3.77,5.39
+2023 Penn St.,2023,Penn St.,10,Second Round,1,Big 10,5.6,4.8,5.3
+2023 Pittsburgh,2023,Pittsburgh,11,Second Round,1,ACC,4.69,5.12,4.24
+2023 Saint Mary's,2023,Saint Mary's,5,Second Round,1,WCC,6.01,5.43,6.09
+2023 TCU,2023,TCU,6,Second Round,1,Big 12,6.4,5.38,5.77
+2024 Connecticut,2024,Connecticut,1,Champion,3,Big East,9.41,9.97,7.98
+2024 Alabama,2024,Alabama,4,Final Four,3,SEC,6.98,7.98,5.14
+2024 NC St.,2024,North Carolina St.,11,Final Four,3,ACC,5.12,4.91,5.04
+2024 Purdue,2024,Purdue,1,Runner Up,3,Big 10,8.14,9.24,6.53
+2024 Illinois,2024,Illinois,3,Elite Eight,2,Big 10,7.16,7.43,5.81
+2024 Clemson,2024,Clemson,6,Elite Eight,2,ACC,6.26,6.54,5.81
+2024 Duke,2024,Duke,4,Elite Eight,2,ACC,7.2,7.49,6.04
+2024 Tennessee,2024,Tennessee,2,Elite Eight,2,SEC,7.17,6.38,6.99
+2024 Iowa St.,2024,Iowa St.,2,Sweet 16,2,Big 12,7.31,6.64,6.8
+2024 San Diego St.,2024,San Diego St.,5,Sweet 16,2,MWC,5.82,5.06,5.56
+2024 North Carolina,2024,North Carolina,1,Sweet 16,2,ACC,7.03,6.31,6.94
+2024 Arizona,2024,Arizona,2,Sweet 16,2,Pac 12,7.43,8.08,6.11
+2024 Houston,2024,Houston,1,Sweet 16,2,Big 12,8.87,7.12,8.54
+2024 Marquette,2024,Marquette,2,Sweet 16,2,Big East,7.61,7.1,6.22
+2024 Creighton,2024,Creighton,3,Sweet 16,2,Big East,6.94,7.56,6.82
+2024 Gonzaga,2024,Gonzaga,5,Sweet 16,2,WCC,6.72,7.78,6.2
+2024 Auburn,2024,Auburn,4,First Round,1,SEC,8.64,8.66,7.95
+2024 BYU,2024,BYU,6,First Round,1,Big 12,6.74,7.03,5.83
+2024 Florida Atlantic,2024,Florida Atlantic,8,First Round,1,AAC,5.97,6.59,5.03
+2024 Drake,2024,Drake,10,First Round,1,MVC,5.32,5.21,4.48
+2024 UAB,2024,UAB,12,First Round,1,AAC,3.95,4.96,3.03
+2024 Morehead St.,2024,Morehead St.,14,First Round,1,OVC,3.57,4.83,4.27
+2024 South Dakota St.,2024,South Dakota St.,15,First Round,1,Summit,2.94,4.61,3.18
+2024 Stetson,2024,Stetson,16,First Round,1,ASUN,1.43,3.57,1.32
+2024 Saint Mary's,2024,Saint Mary's,5,First Round,1,WCC,6.28,6.16,5.86
+2024 Mississippi St.,2024,Mississippi St.,8,First Round,1,SEC,5.91,5.87,5.43
+2024 Nevada,2024,Nevada,10,First Round,1,MWC,5.66,6.1,4.63
+2024 New Mexico,2024,New Mexico,11,First Round,1,MWC,6.28,5.84,5.97
+2024 Charleston,2024,College of Charleston,13,First Round,1,CAA,4.82,5.36,4.11
+2024 Colgate,2024,Colgate,14,First Round,1,Patriot,3.29,3.48,3.96
+2024 Long Beach St.,2024,Long Beach St.,15,First Round,1,Big West,2.66,3.98,2.47
+2024 Howard,2024,Howard,16,First Round,1,MEAC,1.33,3.45,1.57
+2024 Wagner,2024,Wagner,16,First Round,1,NEC,0.0,0.0,1.71
+2024 Kentucky,2024,Kentucky,3,First Round,1,SEC,7.06,7.75,5.48
+2024 Wisconsin,2024,Wisconsin,5,First Round,1,Big 10,5.94,5.91,4.51
+2024 Texas Tech,2024,Texas Tech,6,First Round,1,Big 12,5.57,5.78,4.81
+2024 Florida,2024,Florida,7,First Round,1,SEC,6.41,6.87,5.27
+2024 Nebraska,2024,Nebraska,8,First Round,1,Big 10,6.56,5.47,6.02
+2024 Colorado,2024,Colorado,10,First Round,1,Pac 12,6.14,6.81,5.22
+2024 Vermont,2024,Vermont,13,First Round,1,America East,4.25,3.48,4.25
+2024 Western Kentucky,2024,Western Kentucky,15,First Round,1,CUSA,3.44,3.41,3.6
+2024 Longwood,2024,Longwood,16,First Round,1,Big South,1.99,3.15,2.14
+2024 South Carolina,2024,South Carolina,6,First Round,1,SEC,6.26,5.47,5.43
+2024 TCU,2024,TCU,9,First Round,1,Big 12,5.86,5.91,4.67
+2024 Virginia,2024,Virginia,10,First Round,1,ACC,5.66,4.31,6.5
+2024 Colorado St.,2024,Colorado St.,10,First Round,1,MWC,5.96,6.12,5.33
+2024 McNeese,2024,McNeese St.,12,First Round,1,Southland,5.38,6.44,4.59
+2024 Samford,2024,Samford,13,First Round,1,Southern,5.65,5.98,4.29
+2024 Akron,2024,Akron,14,First Round,1,MAC,3.47,4.13,3.99
+2024 Saint Peter's,2024,Saint Peter's,15,First Round,1,MAAC,2.0,1.61,2.97
+2024 Montana St.,2024,Montana St.,16,First Round,1,Big Sky,1.36,2.97,2.21
+2024 Grambling St.,2024,Grambling St.,16,First Round,1,SWAC,1.29,1.72,2.24
+2024 Washington St.,2024,Washington St.,7,Second Round,1,Pac 12,5.44,5.44,5.2
+2024 Northwestern,2024,Northwestern,9,Second Round,1,Big 10,5.14,5.37,4.12
+2024 Duquesne,2024,Duquesne,11,Second Round,1,A10,4.59,3.87,4.76
+2024 Yale,2024,Yale,13,Second Round,1,Ivy,4.19,4.34,3.64
+2024 Baylor,2024,Baylor,3,Second Round,1,Big 12,6.82,7.96,4.79
+2024 Dayton,2024,Dayton,7,Second Round,1,A10,5.95,7.26,5.45
+2024 Michigan St.,2024,Michigan St.,9,Second Round,1,Big 10,6.12,5.92,6.17
+2024 Grand Canyon,2024,Grand Canyon,12,Second Round,1,WAC,5.08,5.66,4.81
+2024 Texas A&M,2024,Texas A&M,9,Second Round,1,SEC,5.35,4.6,4.32
+2024 Boise St.,2024,Boise St.,10,Second Round,1,MWC,5.4,5.21,5.23
+2024 James Madison,2024,James Madison,12,Second Round,1,Sun Belt,5.37,5.73,5.15
+2024 Oakland,2024,Oakland,14,Second Round,1,Horizon,3.27,4.08,2.53
+2024 Kansas,2024,Kansas,4,Second Round,1,Big 12,5.98,6.2,6.16
+2024 Texas,2024,Texas,7,Second Round,1,Big 12,6.06,6.77,5.43
+2024 Utah St.,2024,Utah St.,8,Second Round,1,MWC,5.57,6.22,4.57
+2024 Oregon,2024,Oregon,11,Second Round,1,Pac 12,5.79,5.82,4.57
+2020 Kansas,2020,Kansas,1,Covid,3,Big 12,7.91,7.35,7.83
+2020 Kentucky,2020,Kentucky,2,Covid,2,SEC,6.02,5.87,5.94
+2020 Duke,2020,Duke,3,Covid,2,ACC,7.04,6.59,6.65
+2020 Wisconsin,2020,Wisconsin,4,Covid,1,Big 10,5.67,3.87,6.1
+2020 Auburn,2020,Auburn,5,Covid,2,SEC,6.05,5.58,5.41
+2020 Iowa,2020,Iowa,6,Covid,1,Big 10,5.59,5.78,4.82
+2020 Providence,2020,Providence,7,Covid,1,Big East,5.52,4.16,5.55
+2020 Houston,2020,Houston,8,Covid,1,CUSA,6.35,4.9,6.02
+2020 Marquette,2020,Marquette,9,Covid,1,Big East,5.43,5.11,5.21
+2020 Arizona St.,2020,Arizona St.,10,Covid,1,Pac 12,4.43,2.83,4.77
+2020 East Tennessee St.,2020,East Tennessee St.,11,Covid,1,Southern,5.02,5.15,4.45
+2020 Liberty,2020,Liberty,12,Covid,1,Big South,4.76,4.32,5.65
+2020 North Texas,2020,North Texas,13,Covid,1,Sun Belt,4.47,5.21,3.9
+2020 Belmont,2020,Belmont,14,Covid,1,ASUN,4.57,4.61,5.56
+2020 North Dakota St.,2020,North Dakota St.,15,Covid,1,Summit,3.61,3.13,3.93
+2020 Siena,2020,Siena,16,Covid,1,MAAC,3.15,4.04,3.71
+2020 Dayton,2020,Dayton,1,Covid,3,A10,7.48,8.44,6.89
+2020 Florida St.,2020,Florida St.,2,Covid,2,ACC,7.05,6.05,6.33
+2020 Villanova,2020,Villanova,3,Covid,2,Big East,6.18,5.23,5.99
+2020 Maryland,2020,Maryland,4,Covid,2,ACC,6.15,5.3,6.05
+2020 Butler,2020,Butler,5,Covid,1,Horizon,6.1,5.04,6.26
+2020 Penn St.,2020,Penn St.,6,Covid,1,Big 10,5.74,4.37,5.78
+2020 West Virginia,2020,West Virginia,7,Covid,1,Big East,7.1,4.87,7.03
+2020 Colorado,2020,Colorado,8,Covid,1,Pac 12,5.56,4.57,5.6
+2020 Florida,2020,Florida,9,Covid,1,SEC,5.78,5.56,5.4
+2020 Utah St.,2020,Utah St.,10,Covid,1,Big West,5.94,5.46,6.1
+2020 UCLA,2020,UCLA,11,Covid,1,Pac 12,4.55,3.93,3.73
+2020 North Carolina St.,2020,North Carolina St.,11,Covid,1,ACC,5.08,4.71,5.33
+2020 Texas,2020,Texas,12,Covid,1,Big 12,4.76,3.51,5.47
+2020 Richmond,2020,Richmond,12,Covid,1,A10,5.71,4.74,6.05
+2020 Akron,2020,Akron,13,Covid,1,MAC,4.51,4.27,5.57
+2020 Hofstra,2020,Hofstra,14,Covid,1,CAA,3.37,3.75,3.69
+2020 Northern Kentucky,2020,Northern Kentucky,15,Covid,1,Horizon,3.46,3.22,4.65
+2020 Boston University,2020,Boston University,16,Covid,1,America East,2.96,3.34,3.84
+2020 Robert Morris,2020,Robert Morris,16,Covid,1,NEC,2.04,2.89,3.18
+2020 Gonzaga,2020,Gonzaga,1,Covid,2,WCC,7.62,7.9,6.69
+2020 San Diego St.,2020,San Diego St.,2,Covid,3,MWC,7.0,6.25,6.83
+2020 Seton Hall,2020,Seton Hall,3,Covid,1,Big East,6.42,5.78,6.79
+2020 Oregon,2020,Oregon,4,Covid,1,Pac 12,6.5,6.15,5.51
+2020 Michigan,2020,Michigan,5,Covid,2,Big 10,6.3,5.35,6.4
+2020 BYU,2020,BYU,6,Covid,1,MWC,6.5,6.03,6.27
+2020 Arizona,2020,Arizona,7,Covid,1,Pac 12,6.01,5.64,6.17
+2020 LSU,2020,LSU,8,Covid,1,SEC,5.16,5.73,4.47
+2020 Oklahoma,2020,Oklahoma,9,Covid,1,Big 12,5.3,3.6,6.31
+2020 Texas Tech,2020,Texas Tech,10,Covid,1,Big 12,5.57,4.5,5.71
+2020 Indiana,2020,Indiana,11,Covid,2,Big 10,5.63,4.58,5.16
+2020 Yale,2020,Yale,12,Covid,1,Ivy,4.55,4.56,5.12
+2020 New Mexico St.,2020,New Mexico St.,13,Covid,1,WAC,5.19,5.51,4.89
+2020 Eastern Washington,2020,Eastern Washington,14,Covid,1,Big Sky,3.15,3.58,3.49
+2020 UC Irvine,2020,UC Irvine,15,Covid,1,Big West,3.68,3.58,4.4
+2020 North Carolina Central,2020,North Carolina Central,16,Covid,1,MEAC,1.09,1.82,2.54
+2020 Prairie View A&M,2020,Prairie View A&M,16,Covid,1,SWAC,2.08,1.95,3.26
+2020 Baylor,2020,Baylor,1,Covid,2,Big 12,7.46,5.6,7.62
+2020 Creighton,2020,Creighton,2,Covid,1,MVC,6.69,5.76,5.85
+2020 Michigan St.,2020,Michigan St.,3,Covid,3,Big 10,6.96,6.3,6.66
+2020 Louisville,2020,Louisville,4,Covid,1,CUSA,7.09,6.11,6.98
+2020 Ohio St.,2020,Ohio St.,5,Covid,1,Big 10,6.45,5.26,5.96
+2020 Virginia,2020,Virginia,6,Covid,1,ACC,5.65,3.39,7.48
+2020 Illinois,2020,Illinois,7,Covid,2,Big 10,5.61,4.47,5.61
+2020 Saint Mary's,2020,Saint Mary's,8,Covid,1,WCC,5.12,4.79,4.6
+2020 Rutgers,2020,Rutgers,9,Covid,1,Big 10,5.95,4.36,6.41
+2020 USC,2020,USC,10,Covid,1,Pac 12,5.43,4.39,6.39
+2020 Cincinnati,2020,Cincinnati,11,Covid,1,CUSA,5.44,5.18,5.76
+2020 Stephen F. Austin,2020,Stephen F. Austin,12,Covid,2,Southland,4.82,5.23,3.82
+2020 Vermont,2020,Vermont,13,Covid,1,America East,4.62,3.96,5.34
+2020 Bradley,2020,Bradley,14,Covid,1,MVC,3.77,3.92,4.48
+2020 Little Rock,2020,Little Rock,15,Covid,1,Sun Belt,3.39,4.82,3.44
+2020 Winthrop,2020,Winthrop,16,Covid,1,Big South,3.01,4.22,2.52
+2025 Akron,2025,Akron,13,First Round,1,MAC,3.81,4.72,2.37
+2025 Alabama,2025,Alabama,2,Elite Eight,2,SEC,8.17,8.79,6.06
+2025 Alabama St.,2025,Alabama St.,16,First Round,1,SWAC,1.18,1.58,2.04
+2025 American,2025,American,16,First Round,1,Patriot,1.52,2.17,1.76
+2025 Arizona,2025,Arizona,4,Sweet 16,2,Big 12,7.38,7.72,5.69
+2025 Arkansas,2025,Arkansas,10,Sweet 16,2,SEC,5.54,5.82,5.14
+2025 Auburn,2025,Auburn,1,Final Four,3,SEC,9.52,9.18,8.0
+2025 Baylor,2025,Baylor,9,Second Round,1,Big 12,6.38,6.57,4.9
+2025 Bryant,2025,Bryant,15,First Round,1,America East,2.71,4.05,3.38
+2025 BYU,2025,BYU,6,Sweet 16,2,Big 12,7.29,7.76,5.09
+2025 Clemson,2025,Clemson,5,First Round,1,ACC,7.06,6.53,6.81
+2025 Colorado St.,2025,Colorado St.,12,Second Round,1,MWC,5.66,5.81,4.95
+2025 Connecticut,2025,Connecticut,8,Second Round,1,Big East,6.42,7.61,4.75
+2025 Creighton,2025,Creighton,9,Second Round,1,Big East,6.2,7.27,6.11
+2025 Drake,2025,Drake,11,Second Round,1,MVC,5.34,5.97,3.76
+2025 Duke,2025,Duke,1,Final Four,3,ACC,9.51,10.0,8.42
+2025 Florida,2025,Florida,1,Champion,3,SEC,9.03,8.92,7.83
+2025 Georgia,2025,Georgia,9,First Round,1,SEC,6.31,6.58,5.51
+2025 Gonzaga,2025,Gonzaga,8,Second Round,1,WCC,7.6,8.02,7.06
+2025 Grand Canyon,2025,Grand Canyon,13,First Round,1,WAC,4.49,5.09,4.58
+2025 High Point,2025,High Point,13,First Round,1,Big South,4.96,6.53,3.46
+2025 Houston,2025,Houston,1,Runner Up,3,Big 12,9.0,7.31,8.38
+2025 Illinois,2025,Illinois,6,Second Round,1,Big 10,7.05,7.03,5.67
+2025 Iowa St.,2025,Iowa St.,3,Second Round,1,Big 12,7.11,7.08,6.29
+2025 Kansas,2025,Kansas,7,First Round,1,Big 12,6.75,6.44,6.8
+2025 Kentucky,2025,Kentucky,3,Sweet 16,2,SEC,7.82,8.07,5.67
+2025 Liberty,2025,Liberty,12,First Round,1,CUSA,4.93,5.45,5.06
+2025 Lipscomb,2025,Lipscomb,14,First Round,1,ASUN,4.17,4.9,4.88
+2025 Louisville,2025,Louisville,8,First Round,1,ACC,6.56,6.95,5.81
+2025 Marquette,2025,Marquette,7,First Round,1,Big 12,6.61,6.09,5.85
+2025 Maryland,2025,Maryland,4,Sweet 16,2,Big 10,7.38,6.93,6.88
+2025 McNeese,2025,McNeese,12,Second Round,1,Southland,5.41,5.91,4.83
+2025 Memphis,2025,Memphis,5,First Round,1,AAC,5.56,5.92,4.64
+2025 Michigan,2025,Michigan,5,Sweet 16,2,Big 10,7.03,6.98,6.78
+2025 Michigan St.,2025,Michigan St.,2,Elite Eight,2,Big 10,7.85,7.15,6.32
+2025 Mississippi,2025,Mississippi,6,Sweet 16,2,SEC,6.38,5.44,5.32
+2025 Mississippi St.,2025,Mississippi St.,8,First Round,1,SEC,5.92,6.42,4.1
+2025 Missouri,2025,Missouri,6,First Round,1,SEC,7.39,8.86,5.41
+2025 Montana,2025,Montana,14,First Round,1,Big Sky,2.87,4.37,1.87
+2025 Mount St. Mary's,2025,Mount St. Mary's,16,First Round,1,MAAC,1.27,2.45,2.05
+2025 Nebraska Omaha,2025,Nebraska Omaha,15,First Round,1,Summit,2.83,4.49,2.04
+2025 New Mexico,2025,New Mexico,10,Second Round,1,MWC,5.66,5.38,4.89
+2025 Norfolk St.,2025,Norfolk St.,16,First Round,1,MEAC,2.57,4.28,2.3
+2025 North Carolina,2025,North Carolina,11,First Round,1,ACC,6.05,6.32,4.92
+2025 Oklahoma,2025,Oklahoma,9,First Round,1,SEC,6.1,6.47,4.47
+2025 Oregon,2025,Oregon,5,Second Round,1,Big 10,6.39,5.91,5.77
+2025 Purdue,2025,Purdue,4,Sweet 16,2,Big 10,7.16,7.33,5.18
+2025 Robert Morris,2025,Robert Morris,15,First Round,1,Horizon,3.3,4.6,2.79
+2025 Saint Francis,2025,Saint Francis,16,First Round,1,NEC,0.36,1.35,1.09
+2025 Saint Mary's,2025,Saint Mary's,7,Second Round,1,WCC,6.36,5.86,5.92
+2025 San Diego St.,2025,San Diego St.,11,First Round,1,MWC,5.82,5.07,6.07
+2025 SIU Edwardsville,2025,SIU Edwardsville,16,First Round,1,OVC,1.85,2.73,2.92
+2025 St. John's,2025,St. John's,2,Second Round,1,Big East,7.34,6.08,7.49
+2025 Tennessee,2025,Tennessee,2,Elite Eight,2,SEC,7.83,7.54,7.62
+2025 Texas,2025,Texas,11,First Round,1,SEC,5.8,6.27,5.02
+2025 Texas A&M,2025,Texas A&M,4,Second Round,1,SEC,6.86,5.78,5.55
+2025 Texas Tech,2025,Texas Tech,3,Elite Eight,2,Big 12,7.46,7.63,6.02
+2025 Troy,2025,Troy,14,First Round,1,Sun Belt,4.33,4.57,4.12
+2025 UC San Diego,2025,UC San Diego,12,First Round,1,Big West,5.93,6.01,5.98
+2025 UCLA,2025,UCLA,7,Second Round,1,Big 10,6.78,6.96,5.63
+2025 UNC Wilmington,2025,UNC Wilmington,14,First Round,1,CAA,3.71,4.91,2.88
+2025 Utah St.,2025,Utah St.,10,First Round,1,MWC,6.01,7.62,3.58
+2025 Vanderbilt,2025,Vanderbilt,10,First Round,1,SEC,6.37,6.22,4.84
+2025 VCU,2025,VCU,11,First Round,1,A10,6.59,6.9,6.25
+2025 Wisconsin,2025,Wisconsin,3,Second Round,1,Big 10,7.45,6.92,6.67
+2025 Wofford,2025,Wofford,15,First Round,1,Southern,2.97,4.46,2.09
+2025 Xavier,2025,Xavier,11,First Round,1,Big East,5.6,6.0,4.76
+2025 Yale,2025,Yale,13,First Round,1,Ivy,4.85,5.57,3.81
