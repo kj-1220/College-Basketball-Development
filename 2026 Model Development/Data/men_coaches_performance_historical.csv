@@ -1,0 +1,681 @@
+year,team_id,coach,coach_id,coach_5year_pake,coach_5year_pase,coach_10year_pake,coach_10year_pase
+2015,2015 Duke,Mike Krzyzewski,2015 Mike Krzyzewski,-0.3,-2.2,-4.3,-7.6
+2015,2015 Kentucky,John Calipari,2015 John Calipari,8.6,9.1,10.8,10.7
+2015,2015 Michigan St.,Tom Izzo,2015 Tom Izzo,2.3,2.5,7.1,8.2
+2015,2015 Wisconsin,Bo Ryan,2015 Bo Ryan,0.4,0.8,0.1,1.5
+2015,2015 Arizona,Sean Miller,2015 Sean Miller,2.2,2.5,3.6,4.3
+2015,2015 Gonzaga,Mark Few,2015 Mark Few,-0.6,-1.3,-1.1,-3
+2015,2015 Notre Dame,Mike Brey,2015 Mike Brey,-3.5,-4.2,-4.8,-5.4
+2015,2015 Louisville,Rick Pitino,2015 Rick Pitino,1.6,3.4,4.1,6.6
+2015,2015 NC St.,Mark Gottfried,2015 Mark Gottfried,-0.3,0.1,-1,-0.6
+2015,2015 North Carolina,Roy Williams,2015 Roy Williams,1.7,0.6,7.4,5.4
+2015,2015 Oklahoma,Lon Kruger,2015 Lon Kruger,-2.8,-3.2,-1.2,-1.8
+2015,2015 UCLA,Steve Alford,2015 Steve Alford,-1.2,-2.4,-3.4,-4.8
+2015,2015 Utah,Larry Krystowiak,2015 Larry Krystowiak,0,0,0.5,0.5
+2015,2015 West Virginia,Bob Huggins,2015 Bob Huggins,1.4,0.9,0.8,1.1
+2015,2015 Wichita St.,Gregg Marshall,2015 Gregg Marshall,0.7,-0.1,0.4,0
+2015,2015 Xavier,Chris Mack,2015 Chris Mack,1.2,1.3,1.2,1.3
+2015,2015 Albany,Will Brown,2015 Will Brown,-0.2,-0.1,-0.6,-0.4
+2015,2015 Baylor,Scott Drew,2015 Scott Drew,2.7,3.3,2.1,2.6
+2015,2015 Belmont,Rick Byrd,2015 Rick Byrd,-1.7,-1.1,-2,-1.4
+2015,2015 Boise St.,Leon Rice,2015 Leon Rice,0,0,0,0
+2015,2015 Buffalo,Bobby Hurley,2015 Bobby Hurley,0,0,0,0
+2015,2015 BYU,Dave Rose,2015 Dave Rose,-1.1,-0.5,-3.2,-2.6
+2015,2015 Coastal Carolina,Cliff Ellis,2015 Cliff Ellis,0,0,0,0
+2015,2015 Davidson,Bob McKillop,2015 Bob McKillop,-0.8,-0.4,0.2,1.6
+2015,2015 Eastern Washington,Jim Hayford,2015 Jim Hayford,0,0,0,0
+2015,2015 Georgia,Mark Fox,2015 Mark Fox,-0.5,-0.6,-0.8,-1.2
+2015,2015 Hampton,Edward Joyner Jr.,2015 Edward Joyner Jr.,-0.1,-0.1,-0.1,-0.1
+2015,2015 Harvard,Tommy Amaker,2015 Tommy Amaker,0.5,0.8,0.5,0.8
+2015,2015 Indiana,Tom Crean,2015 Tom Crean,-0.3,-0.9,-2.3,-2.5
+2015,2015 Iowa St.,Fred Hoiberg,2015 Fred Hoiberg,0.8,0.9,0.8,0.9
+2015,2015 Lafayette,Fran O'Hanlon,2015 Fran O'Hanlon,0,0,0,0
+2015,2015 LSU,Johnny Jones,2015 Johnny Jones,-0.1,-0.1,-0.2,-0.2
+2015,2015 Manhattan,Steve Masiello,2015 Steve Masiello,-0.2,-0.2,-0.2,-0.2
+2015,2015 Mississippi,Andy Kennedy,2015 Andy Kennedy,0.4,0.5,0.4,0.5
+2015,2015 New Mexico St.,Marvin Menzies,2015 Marvin Menzies,-1.3,-1.2,-1.3,-1.2
+2015,2015 North Dakota St.,Dave Richman,2015 Dave Richman,0,0,0,0
+2015,2015 North Florida,Matthew Driscoll,2015 Matthew Driscoll,0,0,0,0
+2015,2015 Northeastern,Bill Coen,2015 Bill Coen,0,0,0,0
+2015,2015 Oklahoma St.,Travis Ford,2015 Travis Ford,-2.4,-2.6,-2.4,-2.4
+2015,2015 Providence,Ed Cooley,2015 Ed Cooley,-0.6,-0.7,-0.6,-0.7
+2015,2015 Purdue,Matt Painter,2015 Matt Painter,-0.3,0,0.3,1.2
+2015,2015 Robert Morris,Andrew Toole,2015 Andrew Toole,0,0,0,0
+2015,2015 SMU,Larry Brown,2015 Larry Brown,0,0,0,0
+2015,2015 St. John's,Steve Lavin,2015 Steve Lavin,-0.8,-1.1,-0.8,-1.1
+2015,2015 Stephen F. Austin,Brad Underwood,2015 Brad Underwood,0.6,0.5,0.6,0.5
+2015,2015 Texas,Rick Barnes,2015 Rick Barnes,-2.7,-1.8,-2.6,-1.6
+2015,2015 Texas Southern,Mike Davis,2015 Mike Davis,0,0,0,-0.1
+2015,2015 UC Irvine,Russell Turner,2015 Russell Turner,0,0,0,0
+2015,2015 Valparaiso,Bryce Drew,2015 Bryce Drew,-0.3,-0.2,-0.3,-0.2
+2015,2015 VCU,Shaka Smart,2015 Shaka Smart,2.2,2.6,2.2,2.6
+2015,2015 Wofford,Mike Young,2015 Mike Young,-0.8,-0.5,-0.8,-0.5
+2015,2015 Wyoming,Larry Shyatt,2015 Larry Shyatt,0,0,0,0
+2015,2015 Arkansas,Mike Anderson,2015 Mike Anderson,-0.4,-0.3,0.5,0.7
+2015,2015 Butler,Chris Holtmann,2015 Chris Holtmann,0,0,0,0
+2015,2015 Cincinnati,Mick Cronin,2015 Mick Cronin,-0.6,-0.9,-0.9,-1
+2015,2015 Dayton,Archie Miller,2015 Archie Miller,2.4,2.4,2.4,2.4
+2015,2015 Georgetown,John Thompson,2015 John Thompson,-4.7,-6.1,-3.8,-4.6
+2015,2015 Georgia St.,Ron Hunter,2015 Ron Hunter,0,0,0,0
+2015,2015 Iowa,Fran McCaffery,2015 Fran McCaffery,-0.5,-0.2,0.5,0.9
+2015,2015 Kansas,Bill Self,2015 Bill Self,-1,-2.7,-1.3,-3.6
+2015,2015 Maryland,Mark Turgeon,2015 Mark Turgeon,-0.8,-1,0.5,0.9
+2015,2015 Northern Iowa,Ben Jacobson,2015 Ben Jacobson,1.1,1.4,0.8,0.9
+2015,2015 Ohio St.,Thad Matta,2015 Thad Matta,-1.3,-0.4,-1.1,-0.8
+2015,2015 Oregon,Dana Altman,2015 Dana Altman,1.1,1.6,-0.5,0.4
+2015,2015 San Diego St.,Steve Fischer,2015 Steve Fischer,-1,-1.5,-1.7,-2.1
+2015,2015 UAB,Jerod Haase,2015 Jerod Haase,0,0,0,0
+2015,2015 Villanova,Jay Wright,2015 Jay Wright,-2.9,-3.9,0.8,-0.3
+2015,2015 Virginia,Tony Bennett,2015 Tony Bennett,-1.4,-1.9,-1.8,-2.3
+2016,2016 Villanova,Jay Wright,2016 Jay Wright,-4,-4.9,-1.5,-3.5
+2016,2016 Oklahoma,Lon Kruger,2016 Lon Kruger,-2.1,-2.3,-1,-1.6
+2016,2016 Syracuse,Jim Boeheim,2016 Jim Boeheim,0.7,0.4,0,-1.9
+2016,2016 North Carolina,Roy Williams,2016 Roy Williams,2,1,5.1,3.2
+2016,2016 Kansas,Bill Self,2016 Bill Self,0.7,-1.7,-0.2,-3.1
+2016,2016 Notre Dame,Mike Brey,2016 Mike Brey,-1.7,-1.9,-3.8,-4.2
+2016,2016 Oregon,Dana Altman,2016 Dana Altman,1.4,1.9,0.5,1.3
+2016,2016 Virginia,Tony Bennett,2016 Tony Bennett,-3.2,-3.3,-3.6,-3.7
+2016,2016 Duke,Mike Krzyzewski,2016 Mike Krzyzewski,0,-2.2,-0.8,-3.6
+2016,2016 Gonzaga,Mark Few,2016 Mark Few,-0.4,-0.9,0.1,-1.5
+2016,2016 Indiana,Tom Crean,2016 Tom Crean,-0.7,-1.5,-2.7,-3.2
+2016,2016 Iowa St.,Steve Prohm,2016 Steve Prohm,0,0,0,0
+2016,2016 Maryland,Mark Turgeon,2016 Mark Turgeon,-0.6,-1.4,0.5,0.3
+2016,2016 Miami FL,Jim Larranaga,2016 Jim Larranaga,0.1,0,2.6,2.8
+2016,2016 Texas A&M,Billy Kennedy,2016 Billy Kennedy,0,0,0.3,0.8
+2016,2016 Wisconsin,Greg Gard,2016 Greg Gard,0,0,0,0
+2016,2016 Arizona,Sean Miller,2016 Sean Miller,2,3.1,3.4,5
+2016,2016 Austin Peay,Dave Loos,2016 Dave Loos,0,0,-0.1,-0.1
+2016,2016 Baylor,Scott Drew,2016 Scott Drew,0.5,0.3,0.7,0.8
+2016,2016 Buffalo,Nate Oats,2016 Nate Oats,0,0,0,0
+2016,2016 Cal St. Bakersfield,Rod Barnes,2016 Rod Barnes,0,0,0,0
+2016,2016 California,Cuonzo Martin,2016 Cuonzo Martin,0.3,1.4,0.3,1.4
+2016,2016 Chattanooga,Matt McCall,2016 Matt McCall,0,0,0,0
+2016,2016 Cincinnati,Mick Cronin,2016 Mick Cronin,-0.2,-0.6,-0.5,-0.7
+2016,2016 Colorado,Tad Boyle,2016 Tad Boyle,-0.6,-1,-0.6,-1
+2016,2016 Dayton,Archie Miller,2016 Archie Miller,2.7,2.7,2.7,2.7
+2016,2016 Fairleigh Dickinson,Greg Herenda,2016 Greg Herenda,0,0,0,0
+2016,2016 Florida Gulf Coast,Joe Dooley,2016 Joe Dooley,0,0,0,0
+2016,2016 Fresno St.,Rodney Terry,2016 Rodney Terry,0,0,0,0
+2016,2016 Green Bay,Linc Darner,2016 Linc Darner,0,0,0,0
+2016,2016 Hampton,Edward Joyner Jr.,2016 Edward Joyner Jr.,0,0,0,0
+2016,2016 Holy Cross,Bill Carmody,2016 Bill Carmody,0,0,0,0
+2016,2016 Iona,Tim Cluesss,2016 Tim Cluesss,0,0,0,0
+2016,2016 Michigan,John Beilein,2016 John Beilein,2.3,2.8,3.3,4.2
+2016,2016 Michigan St.,Tom Izzo,2016 Tom Izzo,2.6,2.8,8,8.5
+2016,2016 Oregon St.,Wayne Tinkle,2016 Wayne Tinkle,-0.3,-0.5,-0.7,-0.6
+2016,2016 Pittsburgh,Jamie Dixon,2016 Jamie Dixon,-2.9,-2.6,-3.5,-4.4
+2016,2016 Purdue,Matt Painter,2016 Matt Painter,-1.6,-1,-0.2,0.6
+2016,2016 Seton Hall,Kevin Willard,2016 Kevin Willard,0,0,0,0
+2016,2016 South Dakota St.,Scott Nagy,2016 Scott Nagy,-0.5,-0.4,-0.5,-0.4
+2016,2016 Southern,Roman Banks,2016 Roman Banks,-0.1,0,-0.1,0
+2016,2016 Stony Brook,Steve Pikiell,2016 Steve Pikiell,0,0,0,0
+2016,2016 Temple,Fran Dunphy,2016 Fran Dunphy,-0.1,-0.6,-2.5,-3
+2016,2016 Texas,Shaka Smart,2016 Shaka Smart,1.6,1.7,1.6,1.7
+2016,2016 Texas Tech,Tubby Smith,2016 Tubby Smith,0.1,0.3,-1.2,-0.3
+2016,2016 Tulsa,Frank Haith,2016 Frank Haith,-2.7,-2.9,-2.5,-2.8
+2016,2016 UNC Asheville,Nicholas McDevitt,2016 Nicholas McDevitt,0,0,0,0
+2016,2016 UNC Wilmington,Kevin Keatts,2016 Kevin Keatts,0,0,0,0
+2016,2016 USC,Andy Enfield,2016 Andy Enfield,1.8,1.9,1.8,1.9
+2016,2016 Vanderbilt,Kevin Stallings,2016 Kevin Stallings,-1.1,-1.3,-1.9,-3.5
+2016,2016 Weber St.,Randy Rahe,2016 Randy Rahe,-0.1,0,-0.2,-0.1
+2016,2016 West Virginia,Bob Huggins,2016 Bob Huggins,0.6,0.1,1.7,1.8
+2016,2016 Little Rock,Chris Beard,2016 Chris Beard,0,0,0,0
+2016,2016 Butler,Chris Holtmann,2016 Chris Holtmann,0.1,-0.1,0.1,-0.1
+2016,2016 Connecticut,Kevin Ollie,2016 Kevin Ollie,4.4,5.1,4.4,5.1
+2016,2016 Hawaii,Eran Ganot,2016 Eran Ganot,0,0,0,0
+2016,2016 Iowa,Fran McCaffery,2016 Fran McCaffery,0,0.1,0.5,1
+2016,2016 Kentucky,John Calipari,2016 John Calipari,8.1,10.1,10.7,11.4
+2016,2016 Middle Tennessee,Kermit Davis Jr,2016 Kermit Davis Jr,0,0,0,0
+2016,2016 Northern Iowa,Ben Jacobson,2016 Ben Jacobson,-0.7,-0.1,0.1,0.7
+2016,2016 Providence,Ed Cooley,2016 Ed Cooley,-1.4,-1.7,-1.4,-1.7
+2016,2016 Saint Joseph's,Phil Martelli,2016 Phil Martelli,-0.4,-0.6,-1.1,-1.3
+2016,2016 Stephen F. Austin,Brad Underwood,2016 Brad Underwood,0.2,0,0.2,0
+2016,2016 Utah,Larry Krystowiak,2016 Larry Krystowiak,0.2,0.9,0.8,1.4
+2016,2016 VCU,Will Wade,2016 Will Wade,0,0,0,0
+2016,2016 Wichita St.,Gregg Marshall,2016 Gregg Marshall,1.2,1,1.2,1.3
+2016,2016 Xavier,Chris Mack,2016 Chris Mack,1.3,1.3,2.1,2.2
+2016,2016 Yale,James Jones,2016 James Jones,0,0,0,0
+2017,2017 North Carolina,Roy Williams,2017 Roy Williams,2.7,2,7.8,5.7
+2017,2017 Oregon,Dana Altman,2017 Dana Altman,2.1,1.6,1.2,1
+2017,2017 South Carolina,Frank Martin,2017 Frank Martin,-0.1,0.3,1.1,1.2
+2017,2017 Gonzaga,Mark Few,2017 Mark Few,0.2,0.1,0,-0.3
+2017,2017 Florida,Michael White,2017 Michael White,0,0,0,0
+2017,2017 Kansas,Bill Self,2017 Bill Self,0.4,-1.7,1.3,-1.9
+2017,2017 Kentucky,John Calipari,2017 John Calipari,5.2,7.1,9.1,11.2
+2017,2017 Xavier,Chris Mack,2017 Chris Mack,1.1,1,1.1,0.9
+2017,2017 Arizona,Sean Miller,2017 Sean Miller,-0.4,0.2,3.3,4.1
+2017,2017 Baylor,Scott Drew,2017 Scott Drew,-0.6,-0.9,-0.4,-0.4
+2017,2017 Butler,Chris Holtmann,2017 Chris Holtmann,0.3,0.3,0.3,0.3
+2017,2017 Michigan,John Beilein,2017 John Beilein,1.7,1.9,2.1,2.6
+2017,2017 Purdue,Matt Painter,2017 Matt Painter,-1.8,-1.4,-1.6,-0.6
+2017,2017 UCLA,Steve Alford,2017 Steve Alford,0.2,-0.2,0.1,-1
+2017,2017 West Virginia,Bob Huggins,2017 Bob Huggins,-1.1,-1.6,0.2,0
+2017,2017 Wisconsin,Greg Gard,2017 Greg Gard,1.1,1.1,1.1,1.1
+2017,2017 Bucknell,Nathan Davis,2017 Nathan Davis,0,0,0,0
+2017,2017 Creighton,Greg McDermott,2017 Greg McDermott,-0.3,-0.4,-0.3,-0.4
+2017,2017 Dayton,Archie Miller,2017 Archie Miller,2.2,1.8,2.2,1.8
+2017,2017 East Tennessee St.,Steve Forbes,2017 Steve Forbes,0,0,0,0
+2017,2017 Florida Gulf Coast,Joe Dooley,2017 Joe Dooley,-0.1,0,-0.1,0
+2017,2017 Iona,Tim Cluesss,2017 Tim Cluesss,0,0,0,0
+2017,2017 Jacksonville St.,Ray Harper,2017 Ray Harper,-0.1,0,-0.1,0
+2017,2017 Kansas St.,Bruce Weber,2017 Bruce Weber,-1.5,-2.2,-3.6,-3.4
+2017,2017 Kent St.,Rob Senderoff,2017 Rob Senderoff,0,0,0,0
+2017,2017 Marquette,Steve Wojciechowski,2017 Steve Wojciechowski,0,0,0,0
+2017,2017 Maryland,Mark Turgeon,2017 Mark Turgeon,0.7,0.3,0.4,0.1
+2017,2017 Miami FL,Jim Larranaga,2017 Jim Larranaga,0.4,-0.2,0.2,-0.4
+2017,2017 Minnesota,Richard Pitino,2017 Richard Pitino,0,0,0,0
+2017,2017 Mount St. Mary's,Jamion Christian,2017 Jamion Christian,0,0,0,0
+2017,2017 Nevada,Eric Musselman,2017 Eric Musselman,0,0,0,0
+2017,2017 New Mexico St.,Paul Weir,2017 Paul Weir,0,0,0,0
+2017,2017 New Orleans,Mark Slessinger,2017 Mark Slessinger,0,0,0,0
+2017,2017 North Carolina Central,LeVell Moton,2017 LeVell Moton,0,0,0,0
+2017,2017 North Dakota,Brian Jones,2017 Brian Jones,0,0,0,0
+2017,2017 Northern Kentucky,John Brannen,2017 John Brannen,0,0,0,0
+2017,2017 Oklahoma St.,Brad Underwood,2017 Brad Underwood,0.5,0.8,0.5,0.8
+2017,2017 Princeton,Mitch Henderson,2017 Mitch Henderson,0,0,0,0
+2017,2017 Providence,Ed Cooley,2017 Ed Cooley,-1.1,-1.3,-1.1,-1.3
+2017,2017 Seton Hall,Kevin Willard,2017 Kevin Willard,-1,-1.1,-1,-1.1
+2017,2017 SMU,Tim Jankovich,2017 Tim Jankovich,0,0,0,0
+2017,2017 South Dakota St.,T.J. Otzelberger,2017 T.J. Otzelberger,0,0,0,0
+2017,2017 Texas Southern,Mike Davis,2017 Mike Davis,0,-0.1,0,-0.1
+2017,2017 Troy,Phil Cunningham,2017 Phil Cunningham,0,0,0,0
+2017,2017 UC Davis,Jim Les,2017 Jim Les,0,0,0,0
+2017,2017 UNC Wilmington,Kevin Keatts,2017 Kevin Keatts,-0.4,-0.2,-0.4,-0.2
+2017,2017 Vanderbilt,Bryce Drew,2017 Bryce Drew,-0.9,-0.4,-0.9,-0.4
+2017,2017 VCU,Will Wade,2017 Will Wade,-0.1,0.4,-0.1,0.4
+2017,2017 Vermont,John Becker,2017 John Becker,-0.2,0,-0.2,0
+2017,2017 Virginia Tech,Buzz Williams,2017 Buzz Williams,2,1.3,1.8,1.6
+2017,2017 Wake Forest,Danny Manning,2017 Danny Manning,-0.3,-0.2,-0.3,-0.2
+2017,2017 Winthrop,Pat Kelsey,2017 Pat Kelsey,0,0,0,0
+2017,2017 Arkansas,Mike Anderson,2017 Mike Anderson,-0.1,-0.1,0.5,0.8
+2017,2017 Cincinnati,Mick Cronin,2017 Mick Cronin,-0.9,-1.1,-1,-1.2
+2017,2017 Duke,Mike Krzyzewski,2017 Mike Krzyzewski,1.1,-0.4,0.4,-1.8
+2017,2017 Florida St.,Leonard Hamilton,2017 Leonard Hamilton,-0.1,-0.8,-0.8,-1.2
+2017,2017 Iowa St.,Steve Prohm,2017 Steve Prohm,0,0,0,0
+2017,2017 Louisville,Rick Pitino,2017 Rick Pitino,5.5,7,3.6,5.6
+2017,2017 Michigan St.,Tom Izzo,2017 Tom Izzo,1.2,1,6.4,7.2
+2017,2017 Middle Tennessee,Kermit Davis Jr,2017 Kermit Davis Jr,0.8,0.9,0.8,0.9
+2017,2017 Northwestern,Chris Collins,2017 Chris Collins,0,0,0,0
+2017,2017 Notre Dame,Mike Brey,2017 Mike Brey,1.4,1.3,-1.8,-2.3
+2017,2017 Rhode Island,Dan Hurley,2017 Dan Hurley,0,0,0,0
+2017,2017 Saint Mary's,Randy Bennett,2017 Randy Bennett,-1.5,-1.5,-1.1,-0.8
+2017,2017 USC,Andy Enfield,2017 Andy Enfield,1.2,1.2,1.2,1.2
+2017,2017 Villanova,Jay Wright,2017 Jay Wright,-0.7,-0.6,0.6,0.5
+2017,2017 Virginia,Tony Bennett,2017 Tony Bennett,-3.3,-3.6,-3.7,-4
+2017,2017 Wichita St.,Gregg Marshall,2017 Gregg Marshall,1,1.4,1.4,1.7
+2018,2018 Villanova,Jay Wright,2018 Jay Wright,-2.3,-2.9,-0.3,-1.2
+2018,2018 Kansas,Bill Self,2018 Bill Self,-1.7,-4.7,1.1,-1.9
+2018,2018 Loyola Chicago,Porter Moser,2018 Porter Moser,0,0,0,0
+2018,2018 Michigan,John Beilein,2018 John Beilein,4,4.6,3.2,3.7
+2018,2018 Duke,Mike Krzyzewski,2018 Mike Krzyzewski,1.5,0.6,0.8,-2.1
+2018,2018 Kansas St.,Bruce Weber,2018 Bruce Weber,-2.1,-2.8,-3.3,-3.6
+2018,2018 Texas Tech,Chris Beard,2018 Chris Beard,0.5,0.5,0.5,0.5
+2018,2018 Clemson,Brad Brownell,2018 Brad Brownell,0,0,-0.8,-0.5
+2018,2018 Gonzaga,Mark Few,2018 Mark Few,2,1.6,2.3,1.9
+2018,2018 Kentucky,John Calipari,2018 John Calipari,3.6,5.1,9,11.2
+2018,2018 Nevada,Eric Musselman,2018 Eric Musselman,-0.4,-0.5,-0.4,-0.5
+2018,2018 Purdue,Matt Painter,2018 Matt Painter,-1.4,-1.3,-1.4,-0.5
+2018,2018 Syracuse,Jim Boeheim,2018 Jim Boeheim,3.8,5,3.5,2.6
+2018,2018 Texas A&M,Billy Kennedy,2018 Billy Kennedy,0.2,0.2,0.5,0.9
+2018,2018 West Virginia,Bob Huggins,2018 Bob Huggins,-0.7,-0.5,0.1,0.4
+2018,2018 Arizona,Sean Miller,2018 Sean Miller,-0.4,-0.1,3,3.3
+2018,2018 Arizona St.,Bobby Hurley,2018 Bobby Hurley,-0.6,-0.5,-0.6,-0.5
+2018,2018 Arkansas,Mike Anderson,2018 Mike Anderson,0.1,0.1,0.7,1.1
+2018,2018 Bucknell,Nathan Davis,2018 Nathan Davis,-0.2,-0.2,-0.2,-0.2
+2018,2018 Cal St. Fullerton,Dedrique Taylor,2018 Dedrique Taylor,0,0,0,0
+2018,2018 Charleston,Earl Grant,2018 Earl Grant,0,0,0,0
+2018,2018 Creighton,Greg McDermott,2018 Greg McDermott,-1.5,-1.8,-1.2,-1.5
+2018,2018 Davidson,Bob McKillop,2018 Bob McKillop,-1,-0.8,0.3,1.4
+2018,2018 Georgia St.,Ron Hunter,2018 Ron Hunter,0.6,0.8,0.6,0.8
+2018,2018 Iona,Tim Cluesss,2018 Tim Cluesss,0,0,0,0
+2018,2018 Lipscomb,Casey Alexander,2018 Casey Alexander,0,0,0,0
+2018,2018 LIU,Jack Perri,2018 Jack Perri,0,0,0,0
+2018,2018 Miami FL,Jim Larranaga,2018 Jim Larranaga,-0.3,-0.9,-0.5,-1.1
+2018,2018 Missouri,Cuonzo Martin,2018 Cuonzo Martin,-0.8,-0.2,-0.8,-0.2
+2018,2018 Montana,Travis DeCuire,2018 Travis DeCuire,0,0,0,0
+2018,2018 Murray St.,Matt McMahon,2018 Matt McMahon,0,0,0,0
+2018,2018 NC St.,Kevin Keatts,2018 Kevin Keatts,-0.7,-0.8,-0.7,-0.8
+2018,2018 New Mexico St.,Chris Jans,2018 Chris Jans,0,0,0,0
+2018,2018 North Carolina Central,LeVell Moton,2018 LeVell Moton,0,0,0,0
+2018,2018 Oklahoma,Lon Kruger,2018 Lon Kruger,0.3,0.1,-0.4,-1
+2018,2018 Penn,Steve Donahue,2018 Steve Donahue,0,0,1.1,1.2
+2018,2018 Providence,Ed Cooley,2018 Ed Cooley,-1.1,-1.3,-1.1,-1.3
+2018,2018 Radford,Mike Jones,2018 Mike Jones,0,0,0,0
+2018,2018 San Diego St.,Brian Dutcher,2018 Brian Dutcher,0,0,0,0
+2018,2018 South Dakota St.,T.J. Otzelberger,2018 T.J. Otzelberger,0,0,0,0
+2018,2018 St. Bonaventure,Mark Schmidt,2018 Mark Schmidt,0,0,-0.6,-0.2
+2018,2018 Stephen F. Austin,Kyle Keller,2018 Kyle Keller,0,0,0,0
+2018,2018 TCU,Jamie Dixon,2018 Jamie Dixon,-2,-0.9,-4,-5
+2018,2018 Texas,Shaka Smart,2018 Shaka Smart,-3.2,-3.2,0.5,0.6
+2018,2018 Texas Southern,Mike Davis,2018 Mike Davis,0,-0.1,0,-0.1
+2018,2018 UCLA,Steve Alford,2018 Steve Alford,0.4,0.1,0.2,-0.9
+2018,2018 UNC Greensboro,Wes Miller,2018 Wes Miller,0,0,0,0
+2018,2018 Virginia,Tony Bennett,2018 Tony Bennett,-3.2,-3.1,-3.5,-3.3
+2018,2018 Virginia Tech,Buzz Williams,2018 Buzz Williams,1.2,0.6,1.4,1
+2018,2018 Wichita St.,Gregg Marshall,2018 Gregg Marshall,1.8,2.9,0.5,1.8
+2018,2018 Wright St.,Scott Nagy,2018 Scott Nagy,-0.5,-0.8,-0.9,-0.9
+2018,2018 Alabama,Avery Johnson,2018 Avery Johnson,0,0,0,0
+2018,2018 Auburn,Bruce Pearl,2018 Bruce Pearl,0,0,1.2,0.4
+2018,2018 Buffalo,Nate Oats,2018 Nate Oats,-0.2,-0.2,-0.2,-0.2
+2018,2018 Butler,LaVall Jordan,2018 LaVall Jordan,0,0,0,0
+2018,2018 Cincinnati,Mick Cronin,2018 Mick Cronin,-2,-2.1,-1.1,-1.2
+2018,2018 Florida,Michael White,2018 Michael White,1,1.4,1,1.4
+2018,2018 Florida St.,Leonard Hamilton,2018 Leonard Hamilton,-0.7,-0.8,-1.5,-2
+2018,2018 Houston,Kelvin Sampson,2018 Kelvin Sampson,0,0,0,0
+2018,2018 Marshall,Dan D'Antoni,2018 Dan D'Antoni,0,0,0,0
+2018,2018 Michigan St.,Tom Izzo,2018 Tom Izzo,2.1,2.8,6.6,7.2
+2018,2018 North Carolina,Roy Williams,2018 Roy Williams,5.1,5,10.8,8.7
+2018,2018 Ohio St.,Chris Holtmann,2018 Chris Holtmann,0.6,0.8,0.6,0.8
+2018,2018 Rhode Island,Dan Hurley,2018 Dan Hurley,0.3,0.3,0.3,0.3
+2018,2018 Seton Hall,Kevin Willard,2018 Kevin Willard,-1.6,-1.7,-1.6,-1.7
+2018,2018 Tennessee,Rick Barnes,2018 Rick Barnes,-0.5,-0.5,-2.9,-1.7
+2018,2018 UMBC,Ryan Odom,2018 Ryan Odom,0,0,0,0
+2018,2018 Xavier,Chris Mack,2018 Chris Mack,1.9,2,3.1,3.2
+2019,2019 Virginia,Tony Bennett,2019 Tony Bennett,-6.4,-6.5,-6.9,-7.1
+2019,2019 Auburn,Bruce Pearl,2019 Bruce Pearl,-0.4,-0.6,0.6,0.2
+2019,2019 Michigan St.,Tom Izzo,2019 Tom Izzo,0.9,1.8,4.8,5.5
+2019,2019 Texas Tech,Chris Beard,2019 Chris Beard,1.5,1.7,1.5,1.7
+2019,2019 Duke,Mike Krzyzewski,2019 Mike Krzyzewski,0.6,0.6,1.9,-0.1
+2019,2019 Gonzaga,Mark Few,2019 Mark Few,3.6,4.4,3,3.3
+2019,2019 Kentucky,John Calipari,2019 John Calipari,4.2,5.9,8.1,10.3
+2019,2019 Purdue,Matt Painter,2019 Matt Painter,-1.5,-1.6,-1.3,-0.8
+2019,2019 Florida St.,Leonard Hamilton,2019 Leonard Hamilton,1.4,1.6,0.6,0.4
+2019,2019 Houston,Kelvin Sampson,2019 Kelvin Sampson,-0.2,-0.1,-0.2,-0.1
+2019,2019 LSU,Will Wade,2019 Will Wade,-0.6,-0.2,-0.6,-0.2
+2019,2019 Michigan,John Beilein,2019 John Beilein,4.2,4.3,6,6.9
+2019,2019 North Carolina,Roy Williams,2019 Roy Williams,3.7,3.4,8.4,6.7
+2019,2019 Oregon,Dana Altman,2019 Dana Altman,2.8,2.2,4,3.7
+2019,2019 Tennessee,Rick Barnes,2019 Rick Barnes,-1.5,-1.4,-4.5,-3.2
+2019,2019 Virginia Tech,Buzz Williams,2019 Buzz Williams,-1.1,-1.3,0.7,0.3
+2019,2019 Abilene Christian,Joe Golding,2019 Joe Golding,0,0,0,0
+2019,2019 Arizona St.,Bobby Hurley,2019 Bobby Hurley,-0.6,-0.5,-0.6,-0.5
+2019,2019 Belmont,Rick Byrd,2019 Rick Byrd,-0.1,-0.1,-1.8,-1.1
+2019,2019 Bradley,Brian Wardle,2019 Brian Wardle,0,0,0,0
+2019,2019 Cincinnati,Mick Cronin,2019 Mick Cronin,-3.1,-2.8,-2.7,-2.6
+2019,2019 Colgate,Matt Langel,2019 Matt Langel,0,0,0,0
+2019,2019 Fairleigh Dickinson,Greg Herenda,2019 Greg Herenda,0,0,0,0
+2019,2019 Gardner Webb,Tim Craft,2019 Tim Craft,0,0,0,0
+2019,2019 Georgia St.,Ron Hunter,2019 Ron Hunter,0.5,0.7,0.5,0.7
+2019,2019 Iona,Tim Cluesss,2019 Tim Cluesss,0,0,0,0
+2019,2019 Iowa St.,Steve Prohm,2019 Steve Prohm,-0.5,-0.1,-0.5,-0.1
+2019,2019 Kansas St.,Bruce Weber,2019 Bruce Weber,1.4,1.1,-0.9,-1.2
+2019,2019 Louisville,Chris Mack,2019 Chris Mack,0.8,-0.4,2,0.9
+2019,2019 Marquette,Steve Wojciechowski,2019 Steve Wojciechowski,-0.6,-0.6,-0.6,-0.6
+2019,2019 Mississippi,Kermit Davis Jr,2019 Kermit Davis Jr,0.8,0.9,0.8,0.9
+2019,2019 Mississippi St.,Ben Howland,2019 Ben Howland,0,0,-0.6,-1
+2019,2019 Montana,Travis DeCuire,2019 Travis DeCuire,-0.2,-0.2,-0.2,-0.2
+2019,2019 Nevada,Eric Musselman,2019 Eric Musselman,0.8,0.6,0.8,0.6
+2019,2019 New Mexico St.,Chris Jans,2019 Chris Jans,-0.4,-0.5,-0.4,-0.5
+2019,2019 North Carolina Central,Levell Moton,2019 Levell Moton,0,0,0,0
+2019,2019 North Dakota St.,David Richman,2019 David Richman,0,0,0,0
+2019,2019 Northeastern,Bill Coen,2019 Bill Coen,-0.1,-0.2,-0.1,-0.2
+2019,2019 Northern Kentucky,John Brannen,2019 John Brannen,-0.1,-0.1,-0.1,-0.1
+2019,2019 Old Dominion,Jeff Jones,2019 Jeff Jones,0,0,-0.1,-0.2
+2019,2019 Prairie View A&M,Byron Smith,2019 Byron Smith,0,0,0,0
+2019,2019 Saint Louis,Travis Ford,2019 Travis Ford,-1.4,-1.2,-2.9,-3
+2019,2019 Saint Mary's,Randy Bennett,2019 Randy Bennett,-0.5,0.1,-1,0
+2019,2019 Seton Hall,Kevin Willard,2019 Kevin Willard,-1.6,-1.4,-1.6,-1.4
+2019,2019 St. John's,Chris Mullin,2019 Chris Mullin,0,0,0,0
+2019,2019 Syracuse,Jim Boeheim,2019 Jim Boeheim,3.5,3.9,4.9,4
+2019,2019 Temple,Fran Dunphy,2019 Fran Dunphy,-0.3,-0.6,-2.1,-3
+2019,2019 Utah St.,Craig Smith,2019 Craig Smith,0,0,0,0
+2019,2019 VCU,Mike Rhoades,2019 Mike Rhoades,0,0,0,0
+2019,2019 Vermont,John Becker,2019 John Becker,-0.3,-0.2,-0.5,-0.3
+2019,2019 Wisconsin,Greg Gard,2019 Greg Gard,1.9,2.4,1.9,2.4
+2019,2019 Yale,James Jones,2019 James Jones,0.3,0.5,0.3,0.5
+2019,2019 Baylor,Scott Drew,2019 Scott Drew,-1.4,-1.9,0.5,0.5
+2019,2019 Buffalo,Nate Oats,2019 Nate Oats,0.4,0.6,0.4,0.6
+2019,2019 Florida,Michael White,2019 Michael White,0.8,1.4,0.8,1.4
+2019,2019 Iowa,Fran McCaffery,2019 Fran McCaffery,0,0.2,0,0.4
+2019,2019 Kansas,Bill Self,2019 Bill Self,0.4,-2.7,0.7,-3.9
+2019,2019 Liberty,Ritche McKay,2019 Ritche McKay,0,0,0,0
+2019,2019 Maryland,Mark Turgeon,2019 Mark Turgeon,0,-0.8,-0.4,-1.4
+2019,2019 Minnesota,Richard Pitino,2019 Richard Pitino,-0.9,-1.1,-0.9,-1.1
+2019,2019 Murray St.,Matt McMahon,2019 Matt McMahon,-0.3,-0.5,-0.3,-0.5
+2019,2019 Ohio St.,Chris Holtmann,2019 Chris Holtmann,0,0.6,0,0.6
+2019,2019 Oklahoma,Lon Kruger,2019 Lon Kruger,0.3,0.1,-1.4,-1.9
+2019,2019 UC Irvine,Russell Turner,2019 Russell Turner,-0.2,-0.2,-0.2,-0.2
+2019,2019 UCF,Johnny Dawkins,2019 Johnny Dawkins,1.3,1.4,1.3,1.4
+2019,2019 Villanova,Jay Wright,2019 Jay Wright,0.8,0.3,0.8,-0.1
+2019,2019 Washington,Mike Hopkins,2019 Mike Hopkins,0,0,0,0
+2019,2019 Wofford,Mike Young,2019 Mike Young,-0.5,-0.6,-1.2,-1
+2021,2021 Baylor,Scott Drew,2021 Scott Drew,-1.8,-2.4,0.9,0.8
+2021,2021 Houston,Kelvin Sampson,2021 Kelvin Sampson,-0.2,0.1,-0.2,0.1
+2021,2021 UCLA,Mick Cronin,2021 Mick Cronin,-3,-2.6,-3.6,-3.4
+2021,2021 Gonzaga,Mark Few,2021 Mark Few,3,3.8,2.4,2.5
+2021,2021 Arkansas,Eric Musselman,2021 Eric Musselman,0.3,-0.3,0.3,-0.3
+2021,2021 Michigan,Juwan Howard,2021 Juwan Howard,0,0,0,0
+2021,2021 Oregon St.,Wayne Tinkle,2021 Wayne Tinkle,-0.5,-0.9,-1.2,-1.5
+2021,2021 USC,Andy Enfield,2021 Andy Enfield,0,-0.4,1.8,1.5
+2021,2021 Alabama,Nate Oats,2021 Nate Oats,0.5,0.5,0.5,0.5
+2021,2021 Creighton,Greg McDermott,2021 Greg McDermott,-1.7,-1.8,-2,-2.2
+2021,2021 Florida St.,Leonard Hamilton,2021 Leonard Hamilton,1.8,2,1.8,1.9
+2021,2021 Loyola Chicago,Porter Moser,2021 Porter Moser,3.2,3.4,3.2,3.4
+2021,2021 Oral Roberts,Paul Mills,2021 Paul Mills,0,0,0,0
+2021,2021 Oregon,Dana Altman,2021 Dana Altman,4.3,3.6,5.4,5.2
+2021,2021 Syracuse,Jim Boeheim,2021 Jim Boeheim,3.6,4,3.9,3.1
+2021,2021 Villanova,Jay Wright,2021 Jay Wright,2.1,1.6,-0.8,-2.3
+2021,2021 Appalachian St.,Dustin Kerns,2021 Dustin Kerns,0,0,0,0
+2021,2021 BYU,Mark Pope,2021 Mark Pope,0,0,0,0
+2021,2021 Clemson,Brad Brownell,2021 Brad Brownell,0.4,0.9,-0.4,0.3
+2021,2021 Cleveland St.,Dennis Gates,2021 Dennis Gates,0,0,0,0
+2021,2021 Colgate,Matt Langel,2021 Matt Langel,-0.1,-0.1,-0.1,-0.1
+2021,2021 Colorado,Tad Boyle,2021 Tad Boyle,-0.4,-0.7,-1,-1.7
+2021,2021 Connecticut,Dan Hurley,2021 Dan Hurley,0.7,0.5,0.7,0.5
+2021,2021 Drake,Darian DeVries,2021 Darian DeVries,0,0,0,0
+2021,2021 Drexel,Zach Spiker,2021 Zach Spiker,0,0,0,0
+2021,2021 Eastern Washington,Shantay Legans,2021 Shantay Legans,0,0,0,0
+2021,2021 Georgetown,Patrick Ewing,2021 Patrick Ewing,0,0,0,0
+2021,2021 Georgia Tech,Josh Pastner,2021 Josh Pastner,0,0,-0.6,-1
+2021,2021 Grand Canyon,Bryce Drew,2021 Bryce Drew,-1.3,-0.8,-1.6,-1
+2021,2021 Hartford,John Gallagher,2021 John Gallagher,0,0,0,0
+2021,2021 Iona,Rick Pitino,2021 Rick Pitino,0.5,0.1,2.1,3.5
+2021,2021 Liberty,Ritche McKay,2021 Ritche McKay,0,0,0,0
+2021,2021 Michigan St.,Tom Izzo,2021 Tom Izzo,1.1,2,3.4,4.5
+2021,2021 Missouri,Cuonzo Martin,2021 Cuonzo Martin,-1.8,-2.3,-1.5,-0.9
+2021,2021 Morehead St.,Preston Spradlin,2021 Preston Spradlin,0,0,0,0
+2021,2021 Mount St. Mary's,Dan Engelstad,2021 Dan Engelstad,0,0,0,0
+2021,2021 Norfolk St.,Robert Jones,2021 Robert Jones,0,0,0,0
+2021,2021 North Carolina,Roy Williams,2021 Roy Williams,3.1,2.1,4.8,2.7
+2021,2021 Ohio St.,Chris Holtmann,2021 Chris Holtmann,0.5,1,0.5,1
+2021,2021 Purdue,Matt Painter,2021 Matt Painter,-0.9,-0.5,-1.2,-0.5
+2021,2021 San Diego St.,Brian Dutcher,2021 Brian Dutcher,-0.5,-0.7,-0.5,-0.7
+2021,2021 St. Bonaventure,Mark Schmidt,2021 Mark Schmidt,-0.4,-0.7,-1,-0.8
+2021,2021 Tennessee,Rick Barnes,2021 Rick Barnes,-2,-1.8,-4.7,-3.6
+2021,2021 Texas,Shaka Smart,2021 Shaka Smart,-2.4,-2.5,-0.2,0
+2021,2021 Texas Southern,Johnny Jones,2021 Johnny Jones,-0.6,-0.6,-0.7,-0.7
+2021,2021 UC Santa Barbara,Joe Pasternack,2021 Joe Pasternack,0,0,0,0
+2021,2021 UNC Greensboro,Wes Miller,2021 Wes Miller,-0.2,-0.2,-0.2,-0.2
+2021,2021 Utah St.,Craig Smith,2021 Craig Smith,-0.7,-0.7,-0.7,-0.7
+2021,2021 VCU,Mike Rhoades,2021 Mike Rhoades,-0.6,-0.7,-0.6,-0.7
+2021,2021 Virginia,Tony Bennett,2021 Tony Bennett,-2.9,-2.5,-4.3,-4.4
+2021,2021 Virginia Tech,Mike Young,2021 Mike Young,-0.4,-0.4,-1.2,-0.9
+2021,2021 Wichita St.,Gregg Marshall,2021 Gregg Marshall,-1.5,0.3,-0.8,0.2
+2021,2021 Winthrop,Pat Kelsey,2021 Pat Kelsey,-0.2,-0.2,-0.2,-0.2
+2021,2021 Abilene Christian,Joe Golding,2021 Joe Golding,-0.1,-0.1,-0.1,-0.1
+2021,2021 Florida,Michael White,2021 Michael White,1,1.8,1,1.8
+2021,2021 Illinois,Brad Underwood,2021 Brad Underwood,-1,-0.3,-0.4,0.2
+2021,2021 Iowa,Fran McCaffery,2021 Fran McCaffery,0.5,0.6,0,0.4
+2021,2021 Kansas,Bill Self,2021 Bill Self,1,-1.9,0,-4.6
+2021,2021 LSU,Will Wade,2021 Will Wade,-0.1,0,-0.1,0
+2021,2021 Maryland,Mark Turgeon,2021 Mark Turgeon,-0.1,-0.8,-0.9,-1.8
+2021,2021 North Texas,Grant McCasland,2021 Grant McCasland,0,0,0,0
+2021,2021 Ohio,Jeff Boals,2021 Jeff Boals,0,0,0,0
+2021,2021 Oklahoma,Lon Kruger,2021 Lon Kruger,1.6,1.6,-1.2,-1.5
+2021,2021 Oklahoma St.,Mike Boynton,2021 Mike Boynton,0,0,0,0
+2021,2021 Rutgers,Steve Pikiell,2021 Steve Pikiell,-0.2,-0.2,-0.2,-0.2
+2021,2021 Texas Tech,Chris Beard,2021 Chris Beard,3.8,4.8,3.8,4.8
+2021,2021 West Virginia,Bob Huggins,2021 Bob Huggins,-0.5,0.3,0.9,1.2
+2021,2021 Wisconsin,Greg Gard,2021 Greg Gard,0.8,1.3,0.8,1.3
+2022,2022 Kansas,Bill Self,2022 Bill Self,1.4,-1.4,2.1,-3.1
+2022,2022 Duke,Mike Krzyzewski,2022 Mike Krzyzewski,-0.4,-0.6,-0.4,-2.7
+2022,2022 Villanova,Jay Wright,2022 Jay Wright,4.3,4.8,0.3,-0.1
+2022,2022 North Carolina,Hubert Davis,2022 Hubert Davis,0,0,0,0
+2022,2022 Arkansas,Eric Musselman,2022 Eric Musselman,1.9,0.9,1.9,0.9
+2022,2022 Houston,Kelvin Sampson,2022 Kelvin Sampson,0.8,1.8,0.8,1.8
+2022,2022 Miami FL,Jim Larranaga,2022 Jim Larranaga,-0.9,-1.6,-0.8,-1.6
+2022,2022 Saint Peter's,Shaheen Holloway,2022 Shaheen Holloway,0,0,0,0
+2022,2022 Arizona,Tommy Lloyd,2022 Tommy Lloyd,0,0,0,0
+2022,2022 Gonzaga,Mark Few,2022 Mark Few,3.5,4.8,3.1,3.9
+2022,2022 Iowa St.,T.J. Otzelberger,2022 T.J. Otzelberger,-0.3,-0.5,-0.3,-0.5
+2022,2022 Michigan,Juwan Howard,2022 Juwan Howard,0.5,-0.3,0.5,-0.3
+2022,2022 Providence,Ed Cooley,2022 Ed Cooley,-0.2,-0.2,-1.6,-1.9
+2022,2022 Purdue,Matt Painter,2022 Matt Painter,-1.7,-1.4,-3.3,-2.5
+2022,2022 Texas Tech,Mark Adams,2022 Mark Adams,0,0,0,0
+2022,2022 UCLA,Mick Cronin,2022 Mick Cronin,-0.5,0.5,-0.7,-0.1
+2022,2022 Akron,John Groce,2022 John Groce,0,0,1.5,1.9
+2022,2022 Alabama,Nate Oats,2022 Nate Oats,0.5,0.2,0.5,0.2
+2022,2022 Boise St.,Leon Rose,2022 Leon Rose,0,0,0,0
+2022,2022 Bryant,Jared Grasso,2022 Jared Grasso,0,0,0,0
+2022,2022 Cal St. Fullerton,Dedrique Taylor,2022 Dedrique Taylor,-0.1,-0.1,-0.1,-0.1
+2022,2022 Chattanooga,Lamont Paris,2022 Lamont Paris,0,0,0,0
+2022,2022 Colgate,Matt Langel,2022 Matt Langel,-0.5,-0.3,-0.5,-0.3
+2022,2022 Colorado St.,Niko Medved,2022 Niko Medved,0,0,0,0
+2022,2022 Connecticut,Dan Hurley,2022 Dan Hurley,-0.4,-0.4,-0.4,-0.4
+2022,2022 Davidson,Bob McKillop,2022 Bob McKillop,-0.6,-0.5,-1.9,-1.5
+2022,2022 Delaware,Martin Ingelsby,2022 Martin Ingelsby,0,0,0,0
+2022,2022 Georgia St.,Rob Lanier,2022 Rob Lanier,0,0,0,0
+2022,2022 Indiana,Tom Crean,2022 Tom Crean,0.5,0.9,-0.2,-0.6
+2022,2022 Iowa,Fran McCaffery,2022 Fran McCaffery,-0.6,-0.8,-0.6,-0.7
+2022,2022 Jacksonville St.,Ray Harper,2022 Ray Harper,-0.1,-0.1,-0.2,-0.1
+2022,2022 Kentucky,John Calipari,2022 John Calipari,0.9,1.6,9,11.7
+2022,2022 Longwood,Griff Aldrich,2022 Griff Aldrich,0,0,0,0
+2022,2022 Loyola Chicago,Drew Valentine,2022 Drew Valentine,0,0,0,0
+2022,2022 LSU,Will Wade,2022 Will Wade,0,0.2,0,0.2
+2022,2022 Marquette,Shaka Smart,2022 Shaka Smart,-3.3,-3.5,-1.7,-1.8
+2022,2022 Montana St.,Danny Sprinkle,2022 Danny Sprinkle,0,0,0,0
+2022,2022 Norfolk St.,Robert Jones,2022 Robert Jones,0,0,0,0
+2022,2022 Rutgers,Steve Pikiell,2022 Steve Pikiell,0.1,0.2,0.1,0.2
+2022,2022 San Diego St.,Brian Dutcher,2022 Brian Dutcher,-1.7,-1.7,-1.7,-1.7
+2022,2022 San Francisco,Todd Golden,2022 Todd Golden,0,0,0,0
+2022,2022 Seton Hall,Kevin Willard,2022 Kevin Willard,-1.9,-2,-1.9,-2
+2022,2022 South Dakota St.,Eric Henderson,2022 Eric Henderson,0,0,0,0
+2022,2022 Texas A&M Corpus Chris,Steve Lutz,2022 Steve Lutz,0,0,0,0
+2022,2022 Texas Southern,Johnny Jones,2022 Johnny Jones,0,0,-0.6,-0.6
+2022,2022 UAB,Andy Kennedy,2022 Andy Kennedy,0,0,-0.1,-0.2
+2022,2022 USC,Andy Enfield,2022 Andy Enfield,1,1.6,2.8,3.5
+2022,2022 Vermont,John Becker,2022 John Becker,-0.6,-0.5,-0.8,-0.5
+2022,2022 Virginia Tech,Mike Young,2022 Mike Young,-0.7,-0.5,-1.5,-1.3
+2022,2022 Wright St.,Scott Nagy,2022 Scott Nagy,-0.5,-0.7,-1,-1.1
+2022,2022 Wyoming,Jeff Linder,2022 Jeff Linder,0,0,0,0
+2022,2022 Yale,James Jones,2022 James Jones,0,0.3,0,0.3
+2022,2022 Auburn,Bruce Pearl,2022 Bruce Pearl,1.8,2.3,1.4,1.7
+2022,2022 Baylor,Scott Drew,2022 Scott Drew,2.4,2.1,2.9,2.3
+2022,2022 Creighton,Greg McDermott,2022 Greg McDermott,-0.9,-0.9,-1.2,-1.3
+2022,2022 Illinois,Brad Underwood,2022 Brad Underwood,-2.2,-2.1,-2,-2.1
+2022,2022 Memphis,Penny Hardaway,2022 Penny Hardaway,0,0,0,0
+2022,2022 Michigan St.,Tom Izzo,2022 Tom Izzo,-1.8,-1.1,0.8,1.7
+2022,2022 Murray St.,Matt McMahon,2022 Matt McMahon,0.2,0,0.2,0
+2022,2022 New Mexico St.,Chris Jans,2022 Chris Jans,-0.7,-1,-0.7,-1
+2022,2022 Notre Dame,Mike Brey,2022 Mike Brey,2,1.8,0.3,-0.1
+2022,2022 Ohio St.,Chris Holtmann,2022 Chris Holtmann,-1.7,-1.3,-1.6,-1.3
+2022,2022 Richmond,Chris Mooney,2022 Chris Mooney,0,0,1.2,1.5
+2022,2022 Saint Mary's,Randy Bennett,2022 Randy Bennett,-1.2,-0.5,-2.7,-2.1
+2022,2022 TCU,Jamie Dixon,2022 Jamie Dixon,-1.6,-1.7,-4.5,-4.3
+2022,2022 Tennessee,Rick Barnes,2022 Rick Barnes,-2.5,-2.3,-4.8,-4.1
+2022,2022 Texas,Chris Beard,2022 Chris Beard,3.4,4.8,3.4,4.8
+2022,2022 Wisconsin,Greg Gard,2022 Greg Gard,0.8,1.7,0.8,1.7
+2023,2023 Connecticut,Dan Hurley,2023 Dan Hurley,-1.5,-1.6,-1.5,-1.6
+2023,2023 Florida Atlantic,Dusty May,2023 Dusty May,0,0,0,0
+2023,2023 Miami FL,Jim Larranaga,2023 Jim Larranaga,0.6,0.6,1,0.5
+2023,2023 San Diego St.,Brian Dutcher,2023 Brian Dutcher,-2.5,-2.4,-2.5,-2.4
+2023,2023 Creighton,Greg McDermott,2023 Greg McDermott,-0.4,-0.5,-0.7,-0.9
+2023,2023 Kansas St.,Jerome Tang,2023 Jerome Tang,0,0,0,0
+2023,2023 Texas,Rodney Terry,2023 Rodney Terry,0,0,-0.4,-0.2
+2023,2023 Alabama,Nate Oats,2023 Nate Oats,-0.1,-0.7,-0.3,-0.8
+2023,2023 Arkansas,Eric Musselman,2023 Eric Musselman,3.7,2.3,3.7,2.3
+2023,2023 Houston,Kelvin Sampson,2023 Kelvin Sampson,1.3,3.6,1.3,3.6
+2023,2023 Michigan St.,Tom Izzo,2023 Tom Izzo,0.7,1.3,1.9,2.4
+2023,2023 Tennessee,Rick Barnes,2023 Rick Barnes,-3.9,-3.1,-5.2,-4.3
+2023,2023 UCLA,Mick Cronin,2023 Mick Cronin,0.3,1.5,-0.6,0.4
+2023,2023 Xavier,Sean Miller,2023 Sean Miller,-1.1,-1.9,-1.5,-1.7
+2023,2023 Arizona,Tommy Lloyd,2023 Tommy Lloyd,-0.2,-1.3,-0.2,-1.3
+2023,2023 Arizona St.,Bobby Hurley,2023 Bobby Hurley,-0.4,-0.7,-1,-1.2
+2023,2023 Boise St.,Leon Rose,2023 Leon Rose,0,0,0,0
+2023,2023 Charleston,Pat Kelsey,2023 Pat Kelsey,-0.5,-0.8,-0.5,-0.8
+2023,2023 Colgate,Matt Langel,2023 Matt Langel,-0.7,-0.4,-0.7,-0.4
+2023,2023 Drake,Darian DeVries,2023 Darian DeVries,-0.2,-0.7,-0.2,-0.7
+2023,2023 Grand Canyon,Bryce Drew,2023 Bryce Drew,-0.8,-0.7,-1.7,-1.1
+2023,2023 Howard,Kenny Blakeney,2023 Kenny Blakeney,0,0,0,0
+2023,2023 Illinois,Brad Underwood,2023 Brad Underwood,-2.6,-3.5,-2.1,-2.7
+2023,2023 Iona,Rick Pitino,2023 Rick Pitino,-1.1,-1.4,4.4,5.5
+2023,2023 Iowa,Fran McCaffery,2023 Fran McCaffery,-2.6,-2.1,-2.6,-1.9
+2023,2023 Iowa St.,T.J. Otzelberger,2023 T.J. Otzelberger,1,0.8,1,0.8
+2023,2023 Kennesaw St.,Amir Abdur-Rahim,2023 Amir Abdur-Rahim,0,0,0,0
+2023,2023 Kent St.,Rob Senderoff,2023 Rob Senderoff,-0.1,-0.2,-0.1,-0.2
+2023,2023 Louisiana,Bob Marlin,2023 Bob Marlin,0,0,-0.2,-0.2
+2023,2023 Memphis,Penny Hardaway,2023 Penny Hardaway,0,0.4,0,0.4
+2023,2023 Mississippi St.,Chris Jans,2023 Chris Jans,-0.2,-0.5,-0.2,-0.5
+2023,2023 Montana St.,Danny Sprinkle,2023 Danny Sprinkle,-0.1,-0.2,-0.1,-0.2
+2023,2023 NC St.,Kevin Keatts,2023 Kevin Keatts,-0.9,-1.1,-1.3,-1.4
+2023,2023 Nevada,Steve Alford,2023 Steve Alford,0.1,0.2,0.3,0
+2023,2023 Northern Kentucky,Darrin Horn,2023 Darrin Horn,0,0,0,0
+2023,2023 Oral Roberts,Paul Mills,2023 Paul Mills,1.9,1.9,1.9,1.9
+2023,2023 Princeton,Mitch Henderson,2023 Mitch Henderson,-0.5,-0.5,-0.5,-0.5
+2023,2023 Providence,Ed Cooley,2023 Ed Cooley,0.5,-0.2,-0.6,-1.5
+2023,2023 Purdue,Matt Painter,2023 Matt Painter,-0.2,-0.1,-2,-1.5
+2023,2023 Southeast Missouri St.,Brad Korn,2023 Brad Korn,0,0,0,0
+2023,2023 Texas A&M,Buzz Williams,2023 Buzz Williams,-1,-0.9,1,0.5
+2023,2023 Texas A&M Corpus Chris,Steve Lutz,2023 Steve Lutz,0,0,0,0
+2023,2023 Texas Southern,Johnny Jones,2023 Johnny Jones,-0.1,0,-0.7,-0.6
+2023,2023 UC Santa Barbara,Joe Pasternack,2023 Joe Pasternack,-0.4,-0.5,-0.4,-0.5
+2023,2023 UNC Asheville,Mike Morrell,2023 Mike Morrell,0,0,0,0
+2023,2023 USC,Andy Enfield,2023 Andy Enfield,1,1.4,2.2,2.6
+2023,2023 Utah St.,Ryan Odom,2023 Ryan Odom,1,1,1,1
+2023,2023 VCU,Mike Rhoades,2023 Mike Rhoades,-0.6,-1.3,-0.6,-1.3
+2023,2023 Vermont,John Becker,2023 John Becker,-1.1,-0.7,-1.3,-0.7
+2023,2023 Virginia,Tony Bennett,2023 Tony Bennett,-2.3,-2.4,-5.6,-6
+2023,2023 West Virginia,Bob Huggins,2023 Bob Huggins,-0.5,0.5,-1.6,-1.1
+2023,2023 Auburn,Bruce Pearl,2023 Bruce Pearl,0.5,1,0.5,1
+2023,2023 Baylor,Scott Drew,2023 Scott Drew,1.9,0.9,1.3,0
+2023,2023 Duke,Jon Scheyer,2023 Jon Scheyer,0,0,0,0
+2023,2023 Fairleigh Dickinson,Tobin Anderson,2023 Tobin Anderson,0,0,0,0
+2023,2023 Furman,Bob Richey,2023 Bob Richey,0,0,0,0
+2023,2023 Gonzaga,Mark Few,2023 Mark Few,1.6,2.1,1.8,2.2
+2023,2023 Indiana,Mike Woodson,2023 Mike Woodson,-0.4,-0.5,-0.4,-0.5
+2023,2023 Kansas,Bill Self,2023 Bill Self,4.3,1.6,4.7,-0.1
+2023,2023 Kentucky,John Calipari,2023 John Calipari,-0.3,-0.1,4.9,6.9
+2023,2023 Marquette,Shaka Smart,2023 Shaka Smart,-2.5,-3,-5.2,-5.8
+2023,2023 Maryland,Kevin Willard,2023 Kevin Willard,-1.4,-1.6,-2.4,-2.7
+2023,2023 Missouri,Dennis Gates,2023 Dennis Gates,0,-0.1,0,-0.1
+2023,2023 Northwestern,Chris Collins,2023 Chris Collins,0.4,0.3,0.4,0.3
+2023,2023 Penn St.,Micah Shrewsberry,2023 Micah Shrewsberry,0,0,0,0
+2023,2023 Pittsburgh,Jeff Capel,2023 Jeff Capel,0,0,0,0
+2023,2023 Saint Mary's,Randy Bennett,2023 Randy Bennett,-1.3,-0.7,-2.8,-2.2
+2023,2023 TCU,Jamie Dixon,2023 Jamie Dixon,-0.9,-0.7,-2.9,-1.6
+2024,2024 Connecticut,Dan Hurley,2024 Dan Hurley,1.4,2.5,1.8,2.9
+2024,2024 Alabama,Nate Oats,2024 Nate Oats,-1,-2,-1.2,-2.2
+2024,2024 NC St.,Kevin Keatts,2024 Kevin Keatts,-1.1,-1.3,-1.8,-2
+2024,2024 Purdue,Matt Painter,2024 Matt Painter,-3,-3.9,-4.4,-5.2
+2024,2024 Illinois,Brad Underwood,2024 Brad Underwood,-2.2,-3.5,-2.6,-3.3
+2024,2024 Clemson,Brad Brownell,2024 Brad Brownell,-0.2,0,-0.2,0
+2024,2024 Duke,Jon Scheyer,2024 Jon Scheyer,-0.4,-0.1,-0.4,-0.1
+2024,2024 Tennessee,Rick Barnes,2024 Rick Barnes,-4.1,-2.7,-4.6,-3.2
+2024,2024 Iowa St.,T.J. Otzelberger,2024 T.J. Otzelberger,-0.2,-0.2,-0.2,-0.2
+2024,2024 San Diego St.,Brian Dutcher,2024 Brian Dutcher,0.7,1.4,0.7,1.4
+2024,2024 North Carolina,Hubert Davis,2024 Hubert Davis,3.8,4.3,3.8,4.3
+2024,2024 Arizona,Tommy Lloyd,2024 Tommy Lloyd,-2.3,-3.7,-2.3,-3.7
+2024,2024 Houston,Kelvin Sampson,2024 Kelvin Sampson,0.3,2.3,0.3,2.3
+2024,2024 Marquette,Shaka Smart,2024 Shaka Smart,-3.5,-4.4,-6.7,-7.6
+2024,2024 Creighton,Greg McDermott,2024 Greg McDermott,2,2.5,0.4,0.7
+2024,2024 Gonzaga,Mark Few,2024 Mark Few,0.9,1.6,2.8,3.2
+2024,2024 Auburn,Bruce Pearl,2024 Bruce Pearl,0.6,1.4,0.6,1.4
+2024,2024 BYU,Mark Pope,2024 Mark Pope,-0.9,-1.1,-0.9,-1.1
+2024,2024 Florida Atlantic,Dusty May,2024 Dusty May,3.3,3.4,3.3,3.4
+2024,2024 Drake,Darian DeVries,2024 Darian DeVries,-0.9,-1.2,-0.9,-1.2
+2024,2024 UAB,Andy Kennedy,2024 Andy Kennedy,-0.2,-0.5,-0.3,-0.7
+2024,2024 Morehead St.,Preston Spradlin,2024 Preston Spradlin,-0.2,-0.2,-0.2,-0.2
+2024,2024 South Dakota St.,Eric Henderson,2024 Eric Henderson,-0.4,-0.2,-0.4,-0.2
+2024,2024 Stetson,Donnie Jones,2024 Donnie Jones,0,0,0,0
+2024,2024 Saint Mary's,Randy Bennett,2024 Randy Bennett,-1.1,-0.9,-2.5,-1.5
+2024,2024 Mississippi St.,Chris Jans,2024 Chris Jans,-0.2,-0.5,-0.2,-0.5
+2024,2024 Nevada,Steve Alford,2024 Steve Alford,0,0,0.4,0.1
+2024,2024 New Mexico,Richard Pitino,2024 Richard Pitino,0.6,0.4,-0.3,-0.8
+2024,2024 Charleston,Pat Kelsey,2024 Pat Kelsey,-0.6,-1,-0.8,-1.3
+2024,2024 Colgate,Matt Langel,2024 Matt Langel,-0.9,-0.5,-0.9,-0.5
+2024,2024 Long Beach St.,Dan Monson,2024 Dan Monson,0,0,0,0
+2024,2024 Howard,Kenny Blakeney,2024 Kenny Blakeney,-0.1,0,-0.1,0
+2024,2024 Wagner,Donald Copeland,2024 Donald Copeland,0,0,0,0
+2024,2024 Kentucky,John Calipari,2024 John Calipari,-1.2,-0.9,2.4,4.2
+2024,2024 Wisconsin,Greg Gard,2024 Greg Gard,-1.5,-1.6,0.4,0.8
+2024,2024 Texas Tech,Chris Beard,2024 Chris Beard,2.9,4.2,3.4,4.7
+2024,2024 Florida,Todd Golden,2024 Todd Golden,-1,-0.6,-1,-0.6
+2024,2024 Nebraska,Fred Hoiberg,2024 Fred Hoiberg,0,0,-1.1,-1.3
+2024,2024 Colorado,Tad Boyle,2024 Tad Boyle,-0.5,-0.1,-2,-2.2
+2024,2024 Vermont,John Becker,2024 John Becker,-1,-0.6,-1.4,-0.8
+2024,2024 Western Kentucky,Hank Plona,2024 Hank Plona,0,0,0,0
+2024,2024 Longwood,Griff Aldrich,2024 Griff Aldrich,-0.1,-0.2,-0.1,-0.2
+2024,2024 South Carolina,Lamont Paris,2024 Lamont Paris,-0.3,-0.2,-0.3,-0.2
+2024,2024 TCU,Jamie Dixon,2024 Jamie Dixon,-0.8,-0.7,-2.8,-1.6
+2024,2024 Virginia,Ron Sanchez,2024 Ron Sanchez,0,0,0,0
+2024,2024 Colorado St.,Niko Medved,2024 Niko Medved,-0.5,-1.1,-0.5,-1.1
+2024,2024 McNeese,Will Wade,2024 Will Wade,-0.6,-0.6,-1.2,-0.8
+2024,2024 Samford,Bucky McMillan,2024 Bucky McMillan,0,0,0,0
+2024,2024 Akron,John Groce,2024 John Groce,-0.1,-0.2,0,-0.1
+2024,2024 Saint Peter's,Shaheen Holloway,2024 Shaheen Holloway,2.8,2.9,2.8,2.9
+2024,2024 Montana St.,Matt Logie,2024 Matt Logie,0,0,0,0
+2024,2024 Grambling St.,Doug Williams,2024 Doug Williams,0,0,0,0
+2024,2024 Washington St.,Kyle Smith,2024 Kyle Smith,0,0,0,0
+2024,2024 Northwestern,Chris Collins,2024 Chris Collins,0.2,0.1,0.6,0.4
+2024,2024 Duquesne,Keith Dambrot,2024 Keith Dambrot,0,0,-0.4,-0.5
+2024,2024 Yale,James Jones,2024 James Jones,-0.4,-0.3,-0.1,0.2
+2024,2024 Baylor,Scott Drew,2024 Scott Drew,1,-0.1,-0.4,-2
+2024,2024 Dayton,Anthony Grant,2024 Anthony Grant,0,0,0,0
+2024,2024 Michigan St.,Tom Izzo,2024 Tom Izzo,1.4,2.1,3.5,4.8
+2024,2024 Grand Canyon,Bryce Drew,2024 Bryce Drew,-0.3,-0.3,-1.9,-1.3
+2024,2024 Texas A&M,Buzz Williams,2024 Buzz Williams,-1.6,-1.2,-0.4,-0.6
+2024,2024 Boise St.,Leon Rose,2024 Leon Rose,0,0,0,0
+2024,2024 James Madison,Mark Byington,2024 Mark Byington,0,0,0,0
+2024,2024 Oakland,Greg Kampe,2024 Greg Kampe,0,0,0,0
+2024,2024 Kansas,Bill Self,2024 Bill Self,3.1,-0.4,1.5,-5.1
+2024,2024 Texas,Rodney Terry,2024 Rodney Terry,0.7,0.7,0.3,0.5
+2024,2024 Utah St.,Ryan Odom,2024 Ryan Odom,-0.1,0.4,-0.1,0.4
+2024,2024 Oregon,Dana Altman,2024 Dana Altman,1.8,2.6,5.8,6.3
+2025,2025 Akron,John Groce,2025 John Groce,-0.2,-0.4,-0.2,-0.4
+2025,2025 Alabama,Nate Oats,2025 Nate Oats,0.7,-0.3,1.1,0.3
+2025,2025 Alabama St.,Mo Williams,2025 Mo Williams,0,0,0,0
+2025,2025 American,Mike Brennan,2025 Mike Brennan,0,0,-0.2,-0.1
+2025,2025 Arizona,Tommy Lloyd,2025 Tommy Lloyd,-3,-4,-3,-4
+2025,2025 Arkansas,John Calipari,2025 John Calipari,-3.4,-3.6,0.8,2.4
+2025,2025 Auburn,Bruce Pearl,2025 Bruce Pearl,-1.1,0.4,-1.5,-0.2
+2025,2025 Baylor,Scott Drew,2025 Scott Drew,0.3,-1,-1.1,-2.8
+2025,2025 Bryant,Doug Brotherton,2025 Doug Brotherton,0,0,0,0
+2025,2025 BYU,Kevin Young,2025 Kevin Young,0,0,0,0
+2025,2025 Clemson,Brad Brownell,2025 Brad Brownell,1.3,1.1,1.8,1.9
+2025,2025 Colorado St.,Niko Medved,2025 Niko Medved,-0.9,-1.7,-0.9,-1.7
+2025,2025 Connecticut,Dan Hurley,2025 Dan Hurley,3.2,5.1,4,5.5
+2025,2025 Creighton,Greg McDermott,2025 Greg McDermott,2.6,3.4,0.3,0.8
+2025,2025 Drake,Ben McCollum,2025 Ben McCollum,0,0,0,0
+2025,2025 Duke,Jon Scheyer,2025 Jon Scheyer,0.6,1.3,0.6,1.3
+2025,2025 Florida,Todd Golden,2025 Todd Golden,-2,-1.5,-2,-1.5
+2025,2025 Georgia,Mike White,2025 Mike White,0,0,0,0
+2025,2025 Gonzaga,Mark Few,2025 Mark Few,0.9,2,4.5,6.4
+2025,2025 Grand Canyon,Bryce Drew,2025 Bryce Drew,0.3,0.2,-1,-0.6
+2025,2025 High Point,Alan Huss,2025 Alan Huss,0,0,0,0
+2025,2025 Houston,Kelvin Sampson,2025 Kelvin Sampson,-1.1,1,-1.3,1
+2025,2025 Illinois,Brad Underwood,2025 Brad Underwood,-1.1,-2.3,-1.5,-2.1
+2025,2025 Iowa St.,T.J. Otzelberger,2025 T.J. Otzelberger,-0.4,0,-0.7,-0.6
+2025,2025 Kansas,Bill Self,2025 Bill Self,1,-1.6,1.5,-4.3
+2025,2025 Kentucky,Mark Pope,2025 Mark Pope,-2.1,-2.1,-2.1,-2.1
+2025,2025 Liberty,Ritche McKay,2025 Ritche McKay,0,0,0,0
+2025,2025 Lipscomb,Lennie Acuff,2025 Lennie Acuff,0,0,0,0
+2025,2025 Louisville,Pat Kelsey,2025 Pat Kelsey,-0.9,-1.3,-1.1,-1.5
+2025,2025 Marquette,Shaka Smart,2025 Shaka Smart,-2.9,-4.1,-6.6,-7.8
+2025,2025 Maryland,Kevin Willard,2025 Kevin Willard,-0.5,-1,-2.1,-2.4
+2025,2025 McNeese,Will Wade,2025 Will Wade,-0.9,-1.1,-1.4,-1.3
+2025,2025 Memphis,Penny Hardaway,2025 Penny Hardaway,-1,-0.3,-1,-0.3
+2025,2025 Michigan,Dusty May,2025 Dusty May,2.8,2.7,2.8,2.7
+2025,2025 Michigan St.,Tom Izzo,2025 Tom Izzo,2.5,3.3,3.4,5.1
+2025,2025 Mississippi,Mississippi,2025 Mississippi,0,0,0,0
+2025,2025 Mississippi St.,Chris Jans,2025 Chris Jans,-0.4,-0.7,-0.8,-1.2
+2025,2025 Missouri,Dennis Gates,2025 Dennis Gates,0.4,0,0.4,0
+2025,2025 Montana,Travis DeCuire,2025 Travis DeCuire,-0.1,-0.1,-0.3,-0.3
+2025,2025 Mount St. Mary's,Donny Lind,2025 Donny Lind,0,0,0,0
+2025,2025 Nebraska Omaha,Chris Crutchfield,2025 Chris Crutchfield,0,0,0,0
+2025,2025 New Mexico,Richard Pitino,2025 Richard Pitino,-0.2,-0.3,-1.1,-1.4
+2025,2025 Norfolk St.,Robert Jones,2025 Robert Jones,-0.1,0,-0.1,0
+2025,2025 North Carolina,Hubert Davis,2025 Hubert Davis,3.4,3,3.4,3
+2025,2025 Oklahoma,Porter Moser,2025 Porter Moser,0.9,1.3,4.1,4.6
+2025,2025 Oregon,Dana Altman,2025 Dana Altman,2.1,3,4.9,5.2
+2025,2025 Purdue,Matt Painter,2025 Matt Painter,-1,-1.9,-2.6,-3.6
+2025,2025 Robert Morris,Andrew Toole,2025 Andrew Toole,0,0,0,0
+2025,2025 Saint Francis,Rob Krimmel,2025 Rob Krimmel,0,0,0,0
+2025,2025 Saint Mary's,Randy Bennett,2025 Randy Bennett,-2.6,-2.1,-3,-2
+2025,2025 San Diego St.,Brian Dutcher,2025 Brian Dutcher,2.1,3,1.6,2.3
+2025,2025 SIU Edwardsville,Brian Barone,2025 Brian Barone,0,0,0,0
+2025,2025 St. John's,Rick Pitino,2025 Rick Pitino,-0.3,-0.3,-0.5,0.2
+2025,2025 Tennessee,Rick Barnes,2025 Rick Barnes,-2.5,-1.2,-4,-2.6
+2025,2025 Texas,Rodney Terry,2025 Rodney Terry,0.6,0.8,0.2,0.6
+2025,2025 Texas A&M,Buzz Williams,2025 Buzz Williams,-0.4,-0.1,-1.5,-1.4
+2025,2025 Texas Tech,Grant McCasland,2025 Grant McCasland,-0.4,-0.3,-0.4,-0.3
+2025,2025 Troy,Scott Cross,2025 Scott Cross,0,0,0,0
+2025,2025 UC San Diego,Eric Olen,2025 Eric Olen,0,0,0,0
+2025,2025 UCLA,Mick Cronin,2025 Mick Cronin,1.3,2.6,-1.9,-0.3
+2025,2025 UNC Wilmington,Takayo Siddle,2025 Takayo Siddle,0,0,0,0
+2025,2025 Utah St.,Jerrod Calhoun,2025 Jerrod Calhoun,0,0,0,0
+2025,2025 Vanderbilt,Mark Byington,2025 Mark Byington,0.6,0.5,0.6,0.5
+2025,2025 VCU,Ryan Odom,2025 Ryan Odom,-1,-0.6,-0.1,0.4
+2025,2025 Wisconsin,Greg Gard,2025 Greg Gard,-2.6,-2.7,-0.6,-0.3
+2025,2025 Wofford,Dwight Perry,2025 Dwight Perry,0,0,0,0
+2025,2025 Xavier,Sean Miller,2025 Sean Miller,0.3,0.2,-1.7,-2.5
+2025,2025 Yale,James Jones,2025 James Jones,0.5,0.4,0.8,0.9
