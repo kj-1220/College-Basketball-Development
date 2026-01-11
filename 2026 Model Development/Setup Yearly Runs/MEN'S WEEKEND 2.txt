@@ -1,0 +1,14 @@
+MEN'S WEEKEND 2
+
+Model: Logistic Regression
+
+Variables:
+	['5man_bpm', 
+	 'wab', 
+	 'torvik_rtg', 
+	 'elite_outcome_probability', 
+	 '5man_dbpm', 
+	 '3man_prpg', 
+	 'four_factors_composite', 
+	 'lineup_depth_quality', 
+	 '3man_bpm']

@@ -1,0 +1,29 @@
+WOMEN'S ELITE
+
+Model: XGBoost
+
+Parameters:
+    {learning_rate: 0.2997738363859162
+     max_depth: 9
+     min_child_weight: 8.623522034407337
+     subsample: 0.8324211691115178
+     colsample_bytree: 0.9988769480719698
+     gamma: 2.017715776385069
+     reg_alpha: 0.9692563913308194
+     reg_lambda: 2.5910989850621258
+     n_estimators: 335}
+
+Variables:
+	['wab', 
+	 'barthag', 
+	 'adj_oe', 
+	 'adj_de', 
+	 'efg_pct', 
+	 'efgd_pct',
+      	 'orb_pct', 
+	 'drb_pct', 
+	 '2p_pct', 
+	 '2pd_pct',
+       	 '3p_pct', 
+	 '3pd_pct', 
+	 '3pr']

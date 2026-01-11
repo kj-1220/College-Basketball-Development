@@ -1,0 +1,12 @@
+WOMEN'S EARLY
+
+Model: Logistic Regression
+
+Variables:
+	['barthag', 
+	 'adj_oe', 
+	 'adj_de', 
+	 'orb_pct', 
+	 'drb_pct', 
+	 'ftr', 
+	'2p_pct']

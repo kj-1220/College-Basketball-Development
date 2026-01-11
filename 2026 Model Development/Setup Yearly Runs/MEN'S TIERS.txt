@@ -1,0 +1,91 @@
+MEN'S TIERS
+
+Model: K-Means Clustering
+N = 8
+
+Variables:
+	['5man_prpg!',
+ 	 '5man_dprpg',
+ 	 '5man_bpm',
+ 	 '5man_obpm',
+ 	 '5man_dbpm',
+ 	 '3man_prpg!',
+ 	 '3man_dprpg',
+ 	 '3man_bpm',
+ 	 '3man_obpm',
+ 	 '3man_dbpm',
+ 	 'kenpom_off',
+ 	 'kenpom_def',
+ 	 'kenpom_rtg',
+ 	 'size',
+ 	 'height',
+ 	 'dr_from_5',
+ 	 'wab',
+ 	 'torvik_off',
+ 	 'torvik_def',
+ 	 'torvik_rtg',
+ 	 'efg%',
+ 	 'efgd%',
+ 	 'tor',
+ 	 'orb%',
+ 	 '2p%',
+ 	 '2p%d',
+ 	 '3p%d',
+ 	 'blk%',
+ 	 'off_dunk_share',
+ 	 'off_close2_fg%',
+ 	 'def_close2_share',
+ 	 'def_far2_share',
+ 	 'off_3pt_fg%',
+ 	 'def_3pt_fg%',
+ 	 'net_rebounding_margin',
+ 	 'def_net_rebounding_margin',
+ 	 'rim_efficiency',
+ 	 'def_perimeter_efficiency',
+ 	 'def_mid_range_reliance',
+ 	 'effective_possession_rate',
+ 	 'size_speed_index',
+ 	 'def_size_speed_index',
+ 	 'block_efficiency',
+ 	 'experience_weighted_production',
+ 	 'def_block_efficiency',
+ 	 'def_experience_impact',
+ 	 'four_factors_composite',
+ 	 'def_four_factors_composite',
+ 	 'lineup_depth_quality',
+ 	 'def_lineup_depth_quality']
+
+# Label Tiers
+df['tier'] = ''
+
+### S Tier ###
+df.loc[(df['cluster']==5) & (df['kenpom_rtg_rank']<=6), 'tier'] = 'S'
+
+### A Tier ###
+df.loc[(df['cluster']==7) & (df['kenpom_rtg_rank']<=13), 'tier'] = 'A'
+df.loc[(df['cluster']==5) & (df['kenpom_rtg_rank']>6) & (df['kenpom_rtg_rank']<=12), 'tier'] = 'A'
+df.loc[(df['cluster']==4) & (df['kenpom_rtg_rank']<=10), 'tier'] = 'A'
+
+### B Tier ###
+df.loc[(df['cluster']==7) & (df['kenpom_rtg_rank']>13) & (df['kenpom_rtg_rank']<=26), 'tier'] = 'B'
+df.loc[(df['cluster']==6) & (df['kenpom_rtg_rank']<=13), 'tier'] = 'B'
+df.loc[(df['cluster']==4) & (df['kenpom_rtg_rank']>10), 'tier'] = 'B'
+df.loc[(df['cluster']==2) & (df['kenpom_rtg_rank']<=18), 'tier'] = 'B'
+df.loc[(df['cluster']==1) & (df['kenpom_rtg_rank']<=24), 'tier'] = 'B'
+
+### C Tier ###
+df.loc[(df['cluster']==7) & (df['kenpom_rtg_rank']>26) & (df['kenpom_rtg_rank']<=37), 'tier'] = 'C'
+df.loc[(df['cluster']==6) & (df['kenpom_rtg_rank']>13) & (df['kenpom_rtg_rank']<=38), 'tier'] = 'C'
+df.loc[(df['cluster']==5) & (df['kenpom_rtg_rank']>12), 'tier'] = 'C'
+df.loc[(df['cluster']==2) & (df['kenpom_rtg_rank']>18) & (df['kenpom_rtg_rank']<=39), 'tier'] = 'C'
+df.loc[(df['cluster']==1) & (df['kenpom_rtg_rank']>24) & (df['kenpom_rtg_rank']<=45), 'tier'] = 'C'
+
+### D Tier ###
+df.loc[(df['cluster']==7) & (df['kenpom_rtg_rank']>37), 'tier'] = 'D'
+df.loc[(df['cluster']==6) & (df['kenpom_rtg_rank']>38), 'tier'] = 'D'
+df.loc[(df['cluster']==2) & (df['kenpom_rtg_rank']>39), 'tier'] = 'D'
+df.loc[(df['cluster']==1) & (df['kenpom_rtg_rank']>45), 'tier'] = 'D'
+
+### F Tier ###
+df.loc[(df['cluster']==0), 'tier'] = 'F'
+df.loc[(df['cluster']==3), 'tier'] = 'F'

@@ -1,0 +1,44 @@
+MEN'S ROUND 2
+
+Model: Random Forest
+
+Variables:
+   ['5man_bpm',
+    'kenpom_rtg',
+    'def_lineup_depth_quality',
+    'torvik_rtg',
+    'kenpom_off',
+    '3man_bpm',
+    '5man_dbpm',
+    'lineup_depth_quality',
+    '5man_obpm',
+    'kenpom_def',
+    'experience_weighted_production',
+    'wab',
+    'defensive_versatility_score',
+    'four_factors_composite',
+    'torvik_def',
+    '3man_obpm',
+    'off_3pt_fg_pct',
+    'def_four_factors_composite',
+    'torvik_off',
+    'size_speed_index',
+    'def_size_speed_index',
+    'def_rim_efficiency',
+    'def_experience_impact',
+    'efg_pct',
+    'offensive_versatility_score',
+    'efgd_pct',
+    '3pd_pct',
+    'def_3pt_fg_pct',
+    'blk_pct',
+    'blked_pct']
+
+Parameters:
+ {n_estimators: 300
+  min_samples_split: 5
+  min_samples_leaf: 1
+  max_samples: 0.65
+  max_features: 0.4
+  max_depth: 12
+  bootstrap: True}

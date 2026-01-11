@@ -1,0 +1,43 @@
+MEN'S ROUND 1
+
+Model: XGBoost
+
+Variables:
+	['5man_bpm', 
+	 'torvik_rtg', 
+	 'elite_outcome_probability', 
+	 '5man_dbpm',
+    	 'paint_touch_rate', 
+	 'bench', 
+	 'def_close2_fg_pct', 
+	 'bench_scoring_ratio',
+    	 'adj_tempo', 
+	 'experience', 
+	 'lineup_depth_quality', 
+	 '5man_obpm',
+    	 'height', 
+	 'off_close2_fg_pct', 
+	 'def_paint_touch_rate', 
+	 'tempo_advantage',
+   	 'def_mid_range_reliance', 
+	 'torvik_off', 
+	 'top5_rebounding_concentration',
+    	 'def_3pt_share', 
+	 'mid_range_reliance', 
+	 '3man_prpg', 
+	 'offense_defense_balance']
+
+Parameters:
+  {subsample: 0.5
+   scale_pos_weight: 1.0
+   reg_lambda: 15.0
+   reg_alpha: 0.05
+   n_estimators: 300
+   min_child_weight: 1
+   max_depth: 3
+   max_delta_step: 0
+   learning_rate: 0.03
+   gamma: 0
+   colsample_bytree: 0.6
+   colsample_bynode: 0.4
+   colsample_bylevel: 0.7}

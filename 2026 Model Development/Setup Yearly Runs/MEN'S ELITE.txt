@@ -1,0 +1,11 @@
+MEN'S ELITE
+
+Model: Logistic Regression
+
+Variables:
+	['5man_bpm', 
+	 'assist_to_usage_ratio', 
+	 'kenpom_off', 
+	 'def_far2_share', 
+	 'blk_pct', 
+	 'four_factors_composite']
