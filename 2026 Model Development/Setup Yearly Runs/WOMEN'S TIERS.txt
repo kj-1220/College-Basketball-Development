@@ -1,0 +1,60 @@
+WOMEN'S TIERS
+
+Model: K-Means Clustering
+N = 5
+
+Variables:
+	['adj_oe',
+         'adj_de',
+         'barthag',
+         'efg_pct',
+         'efgd_pct',
+         'orb_pct',
+         'drb_pct',
+         '2p_pct',
+         '2pd_pct',
+         'wab']
+
+
+# Label Tiers
+df['tier'] = ''
+
+### S Tier ###
+df.loc[(df['cluster']==2) & (df['barthag_rtg_rank']<=4), 'tier'] = 'S'
+
+### A Tier ###
+df.loc[(df['cluster']==2) & (df['barthag_rtg_rank']>4) & (df['seed']<=3), 'tier'] = 'A'
+df.loc[(df['cluster']==3) & (df['barthag_rtg_rank']<=8) & (df['seed']<=3), 'tier'] = 'A'
+df.loc[(df['cluster']==4) & (df['barthag_rtg_rank']<=8) & (df['seed']<=3), 'tier'] = 'A'
+
+### B Tier ###
+df.loc[(df['cluster']==0) & (df['barthag_rtg_rank']<=24) & (df['seed']<=6), 'tier'] = 'B'
+df.loc[(df['cluster']==2) & (df['seed']>3) & (df['seed']<=6), 'tier'] = 'B'
+df.loc[(df['cluster']==3) & (df['barthag_rtg_rank']<=8) & (df['seed']>3), 'tier'] = 'B'
+df.loc[(df['cluster']==4) & (df['barthag_rtg_rank']<=8) & (df['seed']>3), 'tier'] = 'B'
+
+
+### C Tier ###
+df.loc[(df['cluster']==0) & (df['barthag_rtg_rank']>24) & (df['seed']<=6), 'tier'] = 'C'
+df.loc[(df['cluster']==0) & (df['barthag_rtg_rank']<=24) & (df['seed']>6), 'tier'] = 'C'
+df.loc[(df['cluster']==0) & (df['barthag_rtg_rank']>24) & (df['seed']<=9), 'tier'] = 'C'
+df.loc[(df['cluster']==3) & (df['barthag_rtg_rank']>8) & (df['seed']<=3), 'tier'] = 'C'
+df.loc[(df['cluster']==3) & (df['barthag_rtg_rank']<=8) & (df['seed']>3), 'tier'] = 'C'
+df.loc[(df['cluster']==3) & (df['seed']>3) & (df['seed']<=6), 'tier'] = 'C'
+df.loc[(df['cluster']==4) & (df['barthag_rtg_rank']>8) & (df['seed']<=3), 'tier'] = 'C'
+df.loc[(df['cluster']==4) & (df['barthag_rtg_rank']<=8) & (df['seed']>3), 'tier'] = 'C'
+df.loc[(df['cluster']==4) & (df['seed']>3) & (df['seed']<=6), 'tier'] = 'C'
+
+### D Tier ###
+df.loc[(df['cluster']==0) & (df['seed']>9) & (df['seed']<=12), 'tier'] = 'D'
+df.loc[(df['cluster']==2) & (df['seed']>6), 'tier'] = 'D'
+df.loc[(df['cluster']==3) & (df['seed']>6) & (df['seed']<=12), 'tier'] = 'D'
+df.loc[(df['cluster']==4) & (df['seed']>6) & (df['seed']<=12), 'tier'] = 'D'
+
+### F Tier ###
+df.loc[(df['cluster']==0) & (df['seed']>12), 'tier'] = 'F'
+df.loc[(df['cluster']==1), 'tier'] = 'F'
+df.loc[(df['cluster']==3) & (df['seed']>12), 'tier'] = 'F'
+df.loc[(df['cluster']==4) & (df['seed']>12), 'tier'] = 'F'
+
+
